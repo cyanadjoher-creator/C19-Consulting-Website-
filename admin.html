@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>C19 Consulting — Admin</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #f4f4f2;
+    color: #111;
+  }
+  #gate {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #gate form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 280px;
+  }
+  #gate h1 { font-size: 15px; font-weight: 600; margin: 0 0 8px; }
+  #gate input {
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  #gate button, .save-btn, .add-btn {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 6px;
+    background: #111;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .02em;
+    cursor: pointer;
+  }
+  .add-btn { background: #fff; color: #111; border: 1px solid #ccc; }
+  #gate .error { color: #b3261e; font-size: 13px; }
+
+  #app { display: none; max-width: 980px; margin: 0 auto; padding: 32px 24px 120px; }
+  header.top {
+    position: sticky; top: 0; background: #f4f4f2; z-index: 5;
+    padding: 12px 0 20px; margin-bottom: 20px; border-bottom: 1px solid #ddd;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  header.top h1 { font-size: 16px; margin: 0; }
+  header.top .status { font-size: 12px; color: #666; margin-right: 12px; }
+
+  section { margin-bottom: 44px; }
+  section > h2 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .12em;
+    color: #666; margin: 0 0 14px;
+  }
+  .card {
+    background: #fff; border: 1px solid #e2e2e0; border-radius: 8px;
+    padding: 16px; margin-bottom: 12px; position: relative;
+  }
+  .card .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px; }
+  .card .row.full { grid-template-columns: 1fr; }
+  .field { display: flex; flex-direction: column; gap: 4px; }
+  .field label { font-size: 10px; text-transform: uppercase; letter-spacing: .06em; color: #888; }
+  .field input, .field textarea, .field select {
+    font-family: inherit; font-size: 13px; padding: 8px 10px;
+    border: 1px solid #ddd; border-radius: 5px; resize: vertical;
+  }
+  .card .delete-btn {
+    position: absolute; top: 12px; right: 12px;
+    background: none; border: none; color: #b3261e; font-size: 12px; cursor: pointer;
+  }
+  .featured-toggle { display: flex; align-items: center; gap: 6px; font-size: 12px; color: #444; }
+  .simple-list-row { display: flex; gap: 8px; margin-bottom: 8px; }
+  .simple-list-row input { flex: 1; }
+  .simple-list-row button { background: none; border: none; color: #b3261e; cursor: pointer; }
+  footer.bottom {
+    position: fixed; bottom: 0; left: 0; right: 0; background: #fff;
+    border-top: 1px solid #ddd; padding: 14px 24px; display: flex;
+    justify-content: flex-end; align-items: center; gap: 14px;
+  }
+</style>
+</head>
+<body>
+
+<div id="gate">
+  <form id="gate-form">
+    <h1>C19 Consulting — Admin</h1>
+    <input type="password" id="password" placeholder="Password" autofocus>
+    <button type="submit">Enter</button>
+    <div class="error" id="gate-error"></div>
+  </form>
+</div>
+
+<div id="app">
+  <header class="top">
+    <h1>Edit content</h1>
+    <div>
+      <span class="status" id="status"></span>
+    </div>
+  </header>
+
+  <section>
+    <h2>Projects</h2>
+    <div id="projects-list"></div>
+    <button class="add-btn" id="add-project">+ Add project</button>
+  </section>
+
+  <section>
+    <h2>Writing &amp; Research</h2>
+    <div id="writing-list"></div>
+    <button class="add-btn" id="add-writing">+ Add writing entry</button>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <div id="services-list"></div>
+    <button class="add-btn" id="add-service">+ Add service</button>
+  </section>
+
+  <section>
+    <h2>Selected clients</h2>
+    <div id="clients-list"></div>
+    <button class="add-btn" id="add-client">+ Add client</button>
+  </section>
+
+  <footer class="bottom">
+    <span class="status" id="save-status"></span>
+    <button class="save-btn" id="save-btn">Save &amp; publish</button>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var password = null;
+  var sha = null;
+  var content = null;
+
+  var gate = document.getElementById('gate');
+  var app = document.getElementById('app');
+  var statusEl = document.getElementById('status');
+  var saveStatusEl = document.getElementById('save-status');
+
+  document.getElementById('gate-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var pw = document.getElementById('password').value;
+    document.getElementById('gate-error').textContent = '';
+    fetch('/api/content?password=' + encodeURIComponent(pw))
+      .then(function (r) {
+        if (!r.ok) throw new Error('bad password');
+        return r.json();
+      })
+      .then(function (data) {
+        password = pw;
+        content = data.content;
+        sha = data.sha;
+        gate.style.display = 'none';
+        app.style.display = 'block';
+        renderAll();
+      })
+      .catch(function () {
+        document.getElementById('gate-error').textContent = 'Wrong password, or server not configured yet.';
+      });
+  });
+
+  function el(tag, attrs, children) {
+    var e = document.createElement(tag);
+    if (attrs) for (var k in attrs) {
+      if (k === 'class') e.className = attrs[k];
+      else e.setAttribute(k, attrs[k]);
+    }
+    (children || []).forEach(function (c) { if (c) e.appendChild(c); });
+    return e;
+  }
+
+  function field(labelText, tag, value, dataField) {
+    var wrap = el('div', { class: 'field' });
+    wrap.appendChild(el('label', {}, [document.createTextNode(labelText)]));
+    var input = document.createElement(tag);
+    input.setAttribute('data-field', dataField);
+    if (tag === 'textarea') { input.value = value || ''; input.rows = 3; }
+    else { input.value = value || ''; }
+    wrap.appendChild(input);
+    return wrap;
+  }
+
+  function renderAll() {
+    renderProjects();
+    renderWriting();
+    renderServices();
+    renderClients();
+  }
+
+  // ---------- Projects ----------
+  function renderProjects() {
+    var list = document.getElementById('projects-list');
+    list.innerHTML = '';
+    Object.keys(content.collection).forEach(function (slug) {
+      var p = content.collection[slug];
+      var card = el('div', { class: 'card', 'data-slug': slug });
+      card.appendChild(el('button', { class: 'delete-btn', 'data-action': 'delete-project' }, [document.createTextNode('Delete')]));
+
+      var row1 = el('div', { class: 'row' });
+      row1.appendChild(field('Slug (ID)', 'input', slug, '__slug'));
+      row1.appendChild(field('Fig.', 'input', p.fig, 'fig'));
+      card.appendChild(row1);
+
+      var row2 = el('div', { class: 'row full' });
+      row2.appendChild(field('Title', 'input', p.title, 'title'));
+      card.appendChild(row2);
+
+      var row3 = el('div', { class: 'row' });
+      row3.appendChild(field('Client', 'input', p.client, 'client'));
+      row3.appendChild(field('Year', 'input', p.year, 'year'));
+      card.appendChild(row3);
+
+      var row4 = el('div', { class: 'row' });
+      row4.appendChild(field('Services', 'input', p.services, 'services'));
+      row4.appendChild(field('Location', 'input', p.location, 'location'));
+      card.appendChild(row4);
+
+      var row5 = el('div', { class: 'row' });
+      row5.appendChild(field('Status', 'input', p.status, 'status'));
+      var catWrap = el('div', { class: 'field' });
+      catWrap.appendChild(el('label', {}, [document.createTextNode('Category')]));
+      var select = document.createElement('select');
+      select.setAttribute('data-field', 'category');
+      content.workCategories.forEach(function (cat) {
+        var opt = document.createElement('option');
+        opt.value = cat; opt.textContent = cat;
+        if (cat === p.category) opt.selected = true;
+        select.appendChild(opt);
+      });
+      catWrap.appendChild(select);
+      row5.appendChild(catWrap);
+      card.appendChild(row5);
+
+      var row6 = el('div', { class: 'row full' });
+      row6.appendChild(field('Description', 'textarea', p.desc, 'desc'));
+      card.appendChild(row6);
+
+      var featWrap = el('label', { class: 'featured-toggle' });
+      var featCb = document.createElement('input');
+      featCb.type = 'checkbox';
+      featCb.setAttribute('data-field', '__featured');
+      featCb.checked = content.featuredSlugs.indexOf(slug) !== -1;
+      featWrap.appendChild(featCb);
+      featWrap.appendChild(document.createTextNode('Featured on home page'));
+      card.appendChild(featWrap);
+
+      list.appendChild(card);
+    });
+  }
+
+  document.getElementById('add-project').addEventListener('click', function () {
+    var n = 1;
+    while (content.collection['p-new' + n]) n++;
+    content.collection['p-new' + n] = {
+      fig: '', title: 'New project', client: '', year: '', services: '', location: '', status: '', category: content.workCategories[0] || '', desc: ''
+    };
+    renderProjects();
+  });
+
+  document.getElementById('projects-list').addEventListener('click', function (e) {
+    if (e.target.getAttribute('data-action') === 'delete-project') {
+      var card = e.target.closest('.card');
+      var slug = card.getAttribute('data-slug');
+      delete content.collection[slug];
+      content.featuredSlugs = content.featuredSlugs.filter(function (s) { return s !== slug; });
+      renderProjects();
+    }
+  });
+
+  // ---------- Writing ----------
+  function renderWriting() {
+    var list = document.getElementById('writing-list');
+    list.innerHTML = '';
+    content.writing.forEach(function (w, i) {
+      var card = el('div', { class: 'card', 'data-index': i });
+      card.appendChild(el('button', { class: 'delete-btn', 'data-action': 'delete-writing' }, [document.createTextNode('Delete')]));
+
+      var row1 = el('div', { class: 'row' });
+      row1.appendChild(field('Slug (ID)', 'input', w.slug, 'slug'));
+      row1.appendChild(field('Display num / year label', 'input', w.num, 'num'));
+      card.appendChild(row1);
+
+      var row2 = el('div', { class: 'row' });
+      row2.appendChild(field('Year', 'input', w.year, 'year'));
+      row2.appendChild(field('Title', 'input', w.title, 'title'));
+      card.appendChild(row2);
+
+      var row3 = el('div', { class: 'row full' });
+      row3.appendChild(field('Venue / context', 'input', w.venue, 'venue'));
+      card.appendChild(row3);
+
+      var row4 = el('div', { class: 'row full' });
+      row4.appendChild(field('Summary', 'textarea', w.summary, 'summary'));
+      card.appendChild(row4);
+
+      list.appendChild(card);
+    });
+  }
+
+  document.getElementById('add-writing').addEventListener('click', function () {
+    content.writing.push({ slug: 'w-new' + (content.writing.length + 1), num: '', year: '', title: 'New entry', venue: '', summary: '' });
+    renderWriting();
+  });
+
+  document.getElementById('writing-list').addEventListener('click', function (e) {
+    if (e.target.getAttribute('data-action') === 'delete-writing') {
+      var i = parseInt(e.target.closest('.card').getAttribute('data-index'), 10);
+      content.writing.splice(i, 1);
+      renderWriting();
+    }
+  });
+
+  // ---------- Services ----------
+  function renderServices() {
+    var list = document.getElementById('services-list');
+    list.innerHTML = '';
+    content.services.forEach(function (s, i) {
+      var card = el('div', { class: 'card', 'data-index': i });
+      card.appendChild(el('button', { class: 'delete-btn', 'data-action': 'delete-service' }, [document.createTextNode('Delete')]));
+
+      var row1 = el('div', { class: 'row' });
+      row1.appendChild(field('Number', 'input', s.num, 'num'));
+      row1.appendChild(field('Name', 'input', s.name, 'name'));
+      card.appendChild(row1);
+
+      var row2 = el('div', { class: 'row full' });
+      row2.appendChild(field('Description', 'textarea', s.desc, 'desc'));
+      card.appendChild(row2);
+
+      list.appendChild(card);
+    });
+  }
+
+  document.getElementById('add-service').addEventListener('click', function () {
+    content.services.push({ num: '', name: 'New service', desc: '' });
+    renderServices();
+  });
+
+  document.getElementById('services-list').addEventListener('click', function (e) {
+    if (e.target.getAttribute('data-action') === 'delete-service') {
+      var i = parseInt(e.target.closest('.card').getAttribute('data-index'), 10);
+      content.services.splice(i, 1);
+      renderServices();
+    }
+  });
+
+  // ---------- Clients ----------
+  function renderClients() {
+    var list = document.getElementById('clients-list');
+    list.innerHTML = '';
+    content.clients.forEach(function (c, i) {
+      var row = el('div', { class: 'simple-list-row', 'data-index': i });
+      var input = document.createElement('input');
+      input.value = c;
+      input.setAttribute('data-field', 'client-name');
+      row.appendChild(input);
+      var del = document.createElement('button');
+      del.setAttribute('data-action', 'delete-client');
+      del.textContent = 'Remove';
+      row.appendChild(del);
+      list.appendChild(row);
+    });
+  }
+
+  document.getElementById('add-client').addEventListener('click', function () {
+    content.clients.push('');
+    renderClients();
+  });
+
+  document.getElementById('clients-list').addEventListener('click', function (e) {
+    if (e.target.getAttribute('data-action') === 'delete-client') {
+      var i = parseInt(e.target.closest('.simple-list-row').getAttribute('data-index'), 10);
+      content.clients.splice(i, 1);
+      renderClients();
+    }
+  });
+
+  // ---------- Save: read all DOM state back into `content` ----------
+  function collectFromDom() {
+    var newCollection = {};
+    var newFeatured = [];
+    document.querySelectorAll('#projects-list .card').forEach(function (card) {
+      var originalSlug = card.getAttribute('data-slug');
+      var slugInput = card.querySelector('[data-field="__slug"]');
+      var slug = (slugInput.value || originalSlug).trim();
+      var entry = {};
+      ['fig', 'title', 'client', 'year', 'services', 'location', 'status', 'category', 'desc'].forEach(function (f) {
+        var input = card.querySelector('[data-field="' + f + '"]');
+        entry[f] = input ? input.value : '';
+      });
+      newCollection[slug] = entry;
+      var featCb = card.querySelector('[data-field="__featured"]');
+      if (featCb && featCb.checked) newFeatured.push(slug);
+    });
+    content.collection = newCollection;
+    content.featuredSlugs = newFeatured;
+
+    var newWriting = [];
+    document.querySelectorAll('#writing-list .card').forEach(function (card) {
+      var entry = {};
+      ['slug', 'num', 'year', 'title', 'venue', 'summary'].forEach(function (f) {
+        var input = card.querySelector('[data-field="' + f + '"]');
+        entry[f] = input ? input.value : '';
+      });
+      newWriting.push(entry);
+    });
+    content.writing = newWriting;
+
+    var newServices = [];
+    document.querySelectorAll('#services-list .card').forEach(function (card) {
+      var entry = {};
+      ['num', 'name', 'desc'].forEach(function (f) {
+        var input = card.querySelector('[data-field="' + f + '"]');
+        entry[f] = input ? input.value : '';
+      });
+      newServices.push(entry);
+    });
+    content.services = newServices;
+
+    var newClients = [];
+    document.querySelectorAll('#clients-list .simple-list-row input').forEach(function (input) {
+      if (input.value.trim()) newClients.push(input.value.trim());
+    });
+    content.clients = newClients;
+  }
+
+  document.getElementById('save-btn').addEventListener('click', function () {
+    collectFromDom();
+    saveStatusEl.textContent = 'Saving...';
+    fetch('/api/content', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ password: password, content: content, sha: sha }),
+    })
+      .then(function (r) {
+        if (!r.ok) return r.json().then(function (b) { throw new Error(b.error || 'save failed'); });
+        return r.json();
+      })
+      .then(function (data) {
+        sha = data.sha;
+        saveStatusEl.textContent = 'Saved — live on the site in about a minute.';
+        renderAll();
+      })
+      .catch(function (err) {
+        saveStatusEl.textContent = 'Error: ' + err.message;
+      });
+  });
+})();
+</script>
+
+</body>
+</html>
