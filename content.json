@@ -1,0 +1,228 @@
+{
+  "collection": {
+    "p-venice": {
+      "fig": "Fig. 02",
+      "title": "Venice Biennale Inspiration Trip",
+      "client": "CREO — PUIG",
+      "year": "2026",
+      "services": "Production & Coordination, Creative Strategy",
+      "location": "Venice, Italy",
+      "status": "In production",
+      "category": "Creative Consulting",
+      "desc": "A three-day inspiration trip conceived for senior creatives around the Venice Biennale — programming, guest experience, and the full production apparatus, from agendas to the smallest printed piece."
+    },
+    "p-grandpalais": {
+      "fig": "Fig. 03",
+      "title": "Inspiration Days, Grand Palais",
+      "client": "CREO — PUIG",
+      "year": "2026",
+      "services": "Creative Strategy, Production",
+      "location": "Paris, France",
+      "status": "In production",
+      "category": "Creative Consulting",
+      "desc": "A series of Inspiration Day events staged at the Grand Palais for Art Basel Paris and Paris Photo — creative direction of the programme, communications, and event materials."
+    },
+    "p-music": {
+      "fig": "Fig. 04",
+      "title": "Music Culture Sessions",
+      "client": "PUIG",
+      "year": "2026",
+      "services": "Creative Strategy",
+      "location": "Paris, Barcelona, London",
+      "status": "Concept",
+      "category": "Creative Consulting",
+      "desc": "A listening-bar event series across three cities, developed with independent partners — a study in how sound cultures can carry a house’s creative programme."
+    },
+    "p-cartier": {
+      "fig": "Fig. 09",
+      "title": "Cartier Special, Cover Production",
+      "client": "Harper’s Bazaar Turkey",
+      "year": "2025",
+      "services": "Production & Coordination",
+      "location": "Paris, France",
+      "status": "Delivered",
+      "category": "Creative Consulting",
+      "desc": "Line production for a Cartier Special cover shoot — pre-production, call sheets, studio coordination, and the quiet choreography that makes a cover possible."
+    },
+    "p-unhome": {
+      "fig": "Fig. 12",
+      "title": "UNHOME, Paris Edition",
+      "client": "Unhome",
+      "year": "2026",
+      "services": "Art Direction, Editorial Curation",
+      "location": "Paris, France",
+      "status": "In production",
+      "category": "Creative Consulting",
+      "desc": "Art direction and editorial support for a nomadic design retail concept — from manifesto to event, design for the real home."
+    },
+    "p-carhartt": {
+      "fig": "Fig. 08",
+      "title": "French Voice Programme",
+      "client": "Carhartt WIP",
+      "year": "2025",
+      "services": "Marketing & Storytelling",
+      "location": "Paris, France",
+      "status": "Delivered",
+      "category": "Brand Development",
+      "desc": "A large-scale French product copywriting programme — 135 pieces — with iterative calibration of the brand’s voice across the collection."
+    },
+    "p-ashaalia": {
+      "fig": "Fig. 10",
+      "title": "Brand Audit & Product Language",
+      "client": "Ashaalia",
+      "year": "2025—",
+      "services": "Brand Management, Marketing & Wholesale",
+      "location": "Melbourne, Australia",
+      "status": "Ongoing",
+      "category": "Brand Development",
+      "desc": "A comprehensive brand and website audit for a hand-embellished womenswear house, followed by a full product copy rewrite, inventory architecture, and wholesale outreach strategy."
+    },
+    "p-middaia": {
+      "fig": "Fig. 11",
+      "title": "Trunk Show Press Campaign",
+      "client": "Middaia",
+      "year": "2026",
+      "services": "Marketing & Storytelling, Wholesale",
+      "location": "New York, United States",
+      "status": "Delivered",
+      "category": "Brand Development",
+      "desc": "Press campaign and contact architecture for a New York trunk show — a jewellery house introduced to a new city with precision."
+    },
+    "p-form": {
+      "fig": "Fig. 05",
+      "title": "Archive Intelligence Platform",
+      "client": "FORM.Space",
+      "year": "2025—",
+      "services": "Editorial Curation, Brand Management",
+      "location": "Paris, France",
+      "status": "Ongoing",
+      "category": "Editorial",
+      "desc": "Archive lead and platform architecture for a fashion archive intelligence platform — taxonomy, editorial programming, and the frameworks through which a collection becomes knowledge."
+    },
+    "p-academy": {
+      "fig": "Fig. 06",
+      "title": "FORM Academy",
+      "client": "FORM.Space",
+      "year": "2025",
+      "services": "Editorial Curation",
+      "location": "Paris, France",
+      "status": "Ongoing",
+      "category": "Editorial",
+      "desc": "A video series combining biographical analysis with close readings of fashion collections — designers read through their gestures, one collection at a time."
+    },
+    "p-milan": {
+      "fig": "Fig. 07",
+      "title": "Milan Design Week Editorial",
+      "client": "CREO — PUIG × FORMÆ Magazine",
+      "year": "2026",
+      "services": "Editorial Curation",
+      "location": "Milan, Italy",
+      "status": "Published",
+      "category": "Editorial",
+      "desc": "Co-curated editorial coverage of Milan Design Week with FORMÆ Magazine — commissioned articles and client communications for a design-literate audience."
+    }
+  },
+  "workCategories": [
+    "Creative Consulting",
+    "Brand Development",
+    "Editorial"
+  ],
+  "services": [
+    {
+      "num": "I",
+      "name": "Creative Strategy Consulting",
+      "desc": "Positioning, cultural programming, long-term creative vision."
+    },
+    {
+      "num": "II",
+      "name": "Art Direction Consulting",
+      "desc": "Visual systems, typographic identities, image direction."
+    },
+    {
+      "num": "III",
+      "name": "Marketing, Storytelling & Wholesale",
+      "desc": "Product language, brand narrative, wholesale strategy."
+    },
+    {
+      "num": "IV",
+      "name": "Brand Management",
+      "desc": "Audits, inventory architecture, operational frameworks."
+    },
+    {
+      "num": "V",
+      "name": "Production & Celebrity Coordination",
+      "desc": "Shoots, VIP trips, cultural events, guest experience."
+    },
+    {
+      "num": "VI",
+      "name": "Editorial Curation",
+      "desc": "Publications, partnerships, archive-driven content."
+    }
+  ],
+  "writing": [
+    {
+      "slug": "w-gestures",
+      "num": "2026",
+      "year": "2026",
+      "title": "Gestures and Temporalities of Fashion",
+      "venue": "Study day — Institut Français de la Mode, co-organiser",
+      "summary": "A co-organised study day bringing together designers, archivists, and researchers to examine how the fashion gesture is repeated, transmitted, and altered over time."
+    },
+    {
+      "slug": "w-sustainability",
+      "num": "2024—",
+      "year": "2024—",
+      "title": "On the Sustainability of the Fashion Design Gesture",
+      "venue": "Doctoral research — Paris 1 Panthéon-Sorbonne / Università di Bologna",
+      "summary": "Ongoing doctoral research examining the fashion design gesture as a unit of craft knowledge, and what its sustainability means for designers, ateliers, and archives."
+    },
+    {
+      "slug": "w-boro",
+      "num": "2025",
+      "year": "2025",
+      "title": "Boro — Repair as Embodied Knowledge",
+      "venue": "IFFTI Conference — RMIT University Vietnam",
+      "summary": "A conference paper reading the Japanese boro tradition as a form of embodied, generational knowledge — repair as authorship rather than concealment."
+    },
+    {
+      "slug": "w-conversations",
+      "num": "2025—",
+      "year": "2025—",
+      "title": "Conversations",
+      "venue": "Interview series — designers, archivists, makers",
+      "summary": "An ongoing interview series with the people who hold fashion’s institutional memory — designers, archivists, and makers, in their own words."
+    },
+    {
+      "slug": "w-thoughts",
+      "num": "2024—",
+      "year": "2024—",
+      "title": "Thoughts on Fashion",
+      "venue": "Essays — theory, craft, repair cultures",
+      "summary": "A running collection of essays on fashion theory, craft, and repair cultures — short, considered pieces written between formal research and practice."
+    },
+    {
+      "slug": "w-feral",
+      "num": "2023—",
+      "year": "2023—",
+      "title": "FERAL — Selected Writings",
+      "venue": "Independent editorial platform",
+      "summary": "Selected writings from FERAL, an independent editorial platform for criticism and long-form thinking on fashion and image culture."
+    }
+  ],
+  "clients": [
+    "PUIG — CREO",
+    "FORM.Space",
+    "Carhartt WIP",
+    "Harper's Bazaar",
+    "Ashaalia",
+    "Middaia",
+    "Unhome",
+    "FORMÆ Magazine"
+  ],
+  "featuredSlugs": [
+    "p-venice",
+    "p-grandpalais",
+    "p-carhartt",
+    "p-cartier"
+  ]
+}
