@@ -147,12 +147,12 @@
     {
       "num": "II",
       "name": "Art Direction Consulting",
-      "desc": "Visual systems, typographic identities, image direction."
+      "desc": "Visual systems, iconography, image direction."
     },
     {
       "num": "III",
       "name": "Marketing, Storytelling & Wholesale",
-      "desc": "Product language, brand narrative, wholesale strategy."
+      "desc": "Product language, brand narrative, wholesale & marketing strategy."
     },
     {
       "num": "IV",
@@ -175,17 +175,17 @@
       "slug": "w-gestures",
       "num": "2026",
       "year": "2026",
-      "title": "Gestures and Temporalities of Fashion",
-      "venue": "Study day — Institut Français de la Mode, co-organiser",
+      "title": "Nietzsche's Shadow in Ecological Thought",
+      "venue": "Opium Philosophy. ",
       "summary": "A co-organised study day bringing together designers, archivists, and researchers to examine how the fashion gesture is repeated, transmitted, and altered over time.",
       "image": ""
     },
     {
       "slug": "w-sustainability",
       "num": "2024—",
-      "year": "2024—",
-      "title": "On the Sustainability of the Fashion Design Gesture",
-      "venue": "Doctoral research — Paris 1 Panthéon-Sorbonne / Università di Bologna",
+      "year": "2025",
+      "title": "032c, Sara Choi",
+      "venue": "A conversation with Sara Choi for 032c.",
       "summary": "Ongoing doctoral research examining the fashion design gesture as a unit of craft knowledge, and what its sustainability means for designers, ateliers, and archives.",
       "image": ""
     },
@@ -193,8 +193,8 @@
       "slug": "w-boro",
       "num": "2025",
       "year": "2025",
-      "title": "Boro — Repair as Embodied Knowledge",
-      "venue": "IFFTI Conference — RMIT University Vietnam",
+      "title": "Grills: Smiling at the System",
+      "venue": "Cara Magazine",
       "summary": "A conference paper reading the Japanese boro tradition as a form of embodied, generational knowledge — repair as authorship rather than concealment.",
       "image": ""
     },
