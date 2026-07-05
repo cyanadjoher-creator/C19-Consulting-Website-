@@ -1,219 +1,249 @@
 {
   "collection": {
-    "p-venice": {
-      "fig": "Fig. 02",
-      "title": "Conversations Archive · Editorial Series ",
-      "client": "C19 Consulting",
-      "year": "2026",
-      "services": "Production & Coordination, Creative Strategy",
-      "location": "Venice, Italy",
-      "status": "In production",
-      "category": "Creative Consulting",
-      "desc": "A three-day inspiration trip conceived for senior creatives around the Venice Biennale — programming, guest experience, and the full production apparatus, from agendas to the smallest printed piece.",
-      "image": "/uploads/1783260074635-46450ed956f7df765a7a7069ab150515.jpg"
-    },
-    "p-grandpalais": {
-      "fig": "Fig. 03",
-      "title": "Wholesale Development · Production",
-      "client": "Middaia",
-      "year": "2026",
-      "services": "Creative Strategy, Production",
+    "p-conversations": {
+      "fig": "Fig. 01",
+      "title": "Conversations Archive",
+      "client": "Independent — Newcoin Research Center",
+      "year": "2023—",
+      "services": "Editorial Curation & Copywriting",
       "location": "Paris, France",
-      "status": "In production",
-      "category": "Creative Consulting",
-      "desc": "A series of Inspiration Day events staged at the Grand Palais for Art Basel Paris and Paris Photo — creative direction of the programme, communications, and event materials.",
-      "image": "/uploads/1783260078439-dab31a477f50b585f9fcaf816b67f8ac.jpg"
-    },
-    "p-music": {
-      "fig": "Fig. 04",
-      "title": "Music Culture Sessions",
-      "client": "PUIG",
-      "year": "2026",
-      "services": "Creative Strategy",
-      "location": "Paris, Barcelona, London",
-      "status": "Concept",
-      "category": "Creative Consulting",
-      "desc": "A listening-bar event series across three cities, developed with independent partners — a study in how sound cultures can carry a house’s creative programme.",
+      "status": "Ongoing",
+      "category": "Editorial & Archive",
+      "desc": "An ongoing archive of conversations with a generation of designers and artists working at the edges of the fashion system. Conversations Archive gathers the interview practice at the core of C19's editorial work: long-form conversations with emerging designers and artists, conducted, edited and laid out by Cyana-Djoher Hadjali. The series treats the interview as primary material, a way of documenting design gestures and positions before institutions do. For Newcoin Research Center, the archive extended internationally with interviews of Tomikono Wigg, Louisa Gagliardi, Vitalii Akiniov and J.Kim; covering editorial coordination, layouts and talent submission across fashion, art and Web3.",
       "image": ""
     },
-    "p-cartier": {
-      "fig": "Fig. 09",
-      "title": "Archive, Research & Iconography",
-      "client": "FORM.Space",
-      "year": "2026",
-      "services": "Production & Coordination",
+    "p-middaia": {
+      "fig": "Fig. 02",
+      "title": "Middaia — Wholesale Development",
+      "client": "Middaia",
+      "year": "2025—",
+      "services": "Marketing, Storytelling & Wholesale",
+      "location": "New York, United States",
+      "status": "Ongoing",
+      "category": "Brand Management & Wholesale",
+      "desc": "Building the wholesale architecture of an independent label – from linesheet to retailer negotiation. C19 leads wholesale development for Middaia, the label founded by Jade Nguyen Van: market positioning, seasonal wholesale strategy, buyer outreach and retailer negotiation, including development toward the Asian market. The scope extends to press and event support – trunk show press materials and outreach – treating wholesale not as pure distribution but as the narrative through which a young brand becomes legible to buyers. The objective: a distribution network that matches the label's pace, rather than forcing the label to match the market's.",
+      "image": ""
+    },
+    "p-enami": {
+      "fig": "Fig. 03",
+      "title": "ENAMI — Brand Management & Wholesale",
+      "client": "ENAMI",
+      "year": "2025—",
+      "services": "Brand Management, Marketing & Wholesale",
+      "location": "Paris, France",
+      "status": "Ongoing",
+      "category": "Brand Management & Wholesale",
+      "desc": "Full-scope brand development: identity, structure and wholesale for an emerging house. For ENAMI, C19 operates as an embedded brand management partner – shaping identity and positioning, structuring product architecture, and building the wholesale strategy that carries the brand to market. The work spans strategic definition and daily operations: brand development, market positioning and buyer-facing materials, with wholesale treated as the proof of concept of the brand's identity.",
+      "image": ""
+    },
+    "p-form": {
+      "fig": "Fig. 04",
+      "title": "FORM — Fashion Archive Development",
+      "client": "FORM",
+      "year": "2025—",
+      "services": "Editorial Curation, Archive Development",
+      "location": "Paris, France",
+      "status": "Ongoing",
+      "category": "Editorial & Archive",
+      "desc": "Leading the development of a fashion archive platform – sourcing, structuring and narrating designer histories. As Archive Lead at FORM, Cyana-Djoher Hadjali is also the host of Form Academy, a video series on fashion designers drawn from her PhD research corpus – combining biographical analysis with close readings of collections and runway shows.",
+      "image": ""
+    },
+    "p-acne": {
+      "fig": "Fig. 05",
+      "title": "VIP, Celebrity & Events Coordination",
+      "client": "Acne Studios",
+      "year": "2022–2026",
+      "services": "Production & Celebrity Coordination",
+      "location": "Paris, France",
+      "status": "Ongoing",
+      "category": "Production & Events",
+      "desc": "Multi-year engagement coordinating VIP and celebrity guests for the Acne Studios show at Paris Fashion Week (September 2023, February 2024, March 2026): transfers, hair and make-up scheduling, fittings, welcome packs, guest hospitality and show-day arrivals. Preceded by eighteen months within the Events & Projects department (2022–2023): event production from sourcing to breakdown, budget tracking, call sheets and retro-planning, SS23 show assistance and front-of-house operations, including coordinating the press trip to Kero AB in Pajala and Stockholm for the launch of the Acne Studios Kero Boots.",
+      "image": ""
+    },
+    "p-messika": {
+      "fig": "Fig. 06",
+      "title": "Press & Guest Relations",
+      "client": "Messika",
+      "year": "2025",
+      "services": "Production & Celebrity Coordination",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Creative Consulting",
-      "desc": "Line production for a Cartier Special cover shoot — pre-production, call sheets, studio coordination, and the quiet choreography that makes a cover possible.",
-      "image": "/uploads/1783260087359-Capture-d-e-cran-2026-07-05-a--16.00.11.png"
+      "category": "Production & Events",
+      "desc": "Embedded within the press and PR team for the Messika show during Paris Fashion Week: guest list management, invitation logistics and calligraphy coordination, seating plan support, photographer accreditations and press check-ins, and live liaison with PRs and their media on show day.",
+      "image": ""
     },
-    "p-unhome": {
-      "fig": "Fig. 12",
-      "title": "UNHOME, Paris Edition",
-      "client": "Unhome",
-      "year": "2026",
-      "services": "Art Direction, Editorial Curation",
+    "p-puig-creo": {
+      "fig": "Fig. 07",
+      "title": "Creative Hub (CREO) — Copywriting & Content Curation",
+      "client": "PUIG",
+      "year": "2025—",
+      "services": "Editorial Curation & Copywriting",
       "location": "Paris, France",
-      "status": "In production",
-      "category": "Creative Consulting",
-      "desc": "Art direction and editorial support for a nomadic design retail concept — from manifesto to event, design for the real home.",
+      "status": "Ongoing",
+      "category": "Editorial & Archive",
+      "desc": "Editorial copywriting and web content curation for the Puig Creative Hub, in French and English: fragrance and beauty storytelling, city and cultural guides, trend-focused content, and coordination of content and visual materials across the group's cultural programming.",
       "image": ""
     },
     "p-carhartt": {
       "fig": "Fig. 08",
-      "title": "Brand Management & Wholesale",
-      "client": "ENAMI",
-      "year": "2024",
-      "services": "Marketing & Storytelling",
+      "title": "Copywriting",
+      "client": "Carhartt WIP",
+      "year": "2025—2026",
+      "services": "Editorial Curation & Copywriting",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Brand Development",
-      "desc": "A large-scale French product copywriting programme — 135 pieces — with iterative calibration of the brand’s voice across the collection.",
+      "category": "Editorial & Archive",
+      "desc": "Two collaborations with Carhartt WIP: creative writing for WIP.08, and a 2026 French product copywriting mission covering the full seasonal range – technical garment vocabulary translated into precise, brand-true French.",
       "image": "/uploads/1783260083530-50d7dae04403ded8bafa38f3ab360be0.jpg"
+    },
+    "p-cartier": {
+      "fig": "Fig. 09",
+      "title": "Cover Shoot Production",
+      "client": "Harper's Bazaar Turkey × Cartier",
+      "year": "2025",
+      "services": "Production & Celebrity Coordination",
+      "location": "Paris, France",
+      "status": "Delivered",
+      "category": "Production & Events",
+      "desc": "Production and project management for the Harper's Bazaar Turkey × Cartier cover shoot in Paris – coordinating talent, locations, logistics and on-set operations for an international editorial team.",
+      "image": "/uploads/1783260087359-Capture-d-e-cran-2026-07-05-a--16.00.11.png"
     },
     "p-ashaalia": {
       "fig": "Fig. 10",
-      "title": "Brand Audit & Product Language",
+      "title": "Creative Direction, Strategy & Wholesale",
       "client": "Ashaalia",
       "year": "2025—",
-      "services": "Brand Management, Marketing & Wholesale",
+      "services": "Creative Strategy, Marketing & Wholesale",
       "location": "Melbourne, Australia",
       "status": "Ongoing",
-      "category": "Brand Development",
-      "desc": "A comprehensive brand and website audit for a hand-embellished womenswear house, followed by a full product copy rewrite, inventory architecture, and wholesale outreach strategy.",
+      "category": "Brand Management & Wholesale",
+      "desc": "Ongoing creative direction and strategic consulting for Ashaalia: brand audit and positioning, product copy and copy guidelines, e-commerce structure, and wholesale outreach – building the operational and narrative infrastructure of the brand.",
       "image": ""
     },
-    "p-middaia": {
+    "p-palladium": {
       "fig": "Fig. 11",
-      "title": "Trunk Show Press Campaign",
-      "client": "Middaia",
-      "year": "2026",
-      "services": "Marketing & Storytelling, Wholesale",
-      "location": "New York, United States",
+      "title": "SS22 'Ticket to Earth'",
+      "client": "Palladium",
+      "year": "2022",
+      "services": "Editorial Curation & Copywriting",
+      "location": "Paris, France",
       "status": "Delivered",
-      "category": "Brand Development",
-      "desc": "Press campaign and contact architecture for a New York trunk show — a jewellery house introduced to a new city with precision.",
+      "category": "Editorial & Archive",
+      "desc": "Creative writing and voice-over for Palladium's SS22 campaign 'Ticket to Earth', marking the brand's 75th anniversary.",
       "image": ""
     },
-    "p-form": {
-      "fig": "Fig. 05",
-      "title": "Archive Intelligence Platform",
-      "client": "FORM.Space",
+    "p-newcoin": {
+      "fig": "Fig. 12",
+      "title": "Editor, Newcoin Research Center",
+      "client": "Newcoin Research Center",
       "year": "2025—",
-      "services": "Editorial Curation, Brand Management",
+      "services": "Editorial Curation & Copywriting",
       "location": "Paris, France",
       "status": "Ongoing",
-      "category": "Editorial",
-      "desc": "Archive lead and platform architecture for a fashion archive intelligence platform — taxonomy, editorial programming, and the frameworks through which a collection becomes knowledge.",
+      "category": "Editorial & Archive",
+      "desc": "Cultural trend analysis and editorial strategy at the intersection of fashion, aesthetics and Web3 – interviews with international designers and artists, editorial layout and narrative direction for the Newcoin Research Center.",
       "image": ""
     },
-    "p-academy": {
-      "fig": "Fig. 06",
-      "title": "FORM Academy",
-      "client": "FORM.Space",
-      "year": "2025",
-      "services": "Editorial Curation",
+    "p-lemindu": {
+      "fig": "Fig. 13",
+      "title": "'Demons' — Silicone Masks",
+      "client": "Charlie Le Mindu × Angèle",
+      "year": "2023",
+      "services": "Production & Celebrity Coordination",
+      "location": "Paris, France",
+      "status": "Delivered",
+      "category": "Production & Events",
+      "desc": "Creation of silicone masks for the music video 'Demons' by Angèle ft. Damso, in collaboration with Charlie Le Mindu.",
+      "image": ""
+    },
+    "p-premiercri": {
+      "fig": "Fig. 14",
+      "title": "Communication & Events",
+      "client": "Premier Cri",
+      "year": "2024—",
+      "services": "Brand Management, Marketing & Wholesale",
       "location": "Paris, France",
       "status": "Ongoing",
-      "category": "Editorial",
-      "desc": "A video series combining biographical analysis with close readings of fashion collections — designers read through their gestures, one collection at a time.",
+      "category": "Brand Management & Wholesale",
+      "desc": "Website development, social media strategy, art direction and copywriting – plus the organisation of launch events, screenings and concert evenings.",
       "image": ""
     },
-    "p-milan": {
-      "fig": "Fig. 07",
-      "title": "Milan Design Week Editorial",
-      "client": "CREO — PUIG × FORMÆ Magazine",
+    "p-unhome": {
+      "fig": "Fig. 15",
+      "title": "UNHOME, Paris Edition",
+      "client": "Unhome",
       "year": "2026",
-      "services": "Editorial Curation",
-      "location": "Milan, Italy",
-      "status": "Published",
-      "category": "Editorial",
-      "desc": "Co-curated editorial coverage of Milan Design Week with FORMÆ Magazine — commissioned articles and client communications for a design-literate audience.",
+      "services": "Editorial Curation, PR & Guest Relations",
+      "location": "Paris, France",
+      "status": "In production",
+      "category": "Editorial & Archive",
+      "desc": "Research and writing for a nomadic design retail concept, alongside PR invitations and guest coordination — from manifesto to event, design for the real home.",
       "image": ""
     }
   },
   "workCategories": [
-    "Creative Consulting",
-    "Brand Development",
-    "Editorial"
+    "Brand Management & Wholesale",
+    "Editorial & Archive",
+    "Production & Events"
   ],
   "services": [
     {
       "num": "I",
       "name": "Creative Strategy Consulting",
-      "desc": "Positioning, cultural programming, long-term creative vision."
+      "desc": "Positioning, narrative architecture, and cultural and art direction for fashion brands and cultural institutions. Drawing on more than five years of experience across the fashion industry, C19 combines fashion theory, market intelligence and trend analysis to translate ideas into clear, actionable strategies that creative teams can execute."
     },
     {
       "num": "II",
       "name": "Art Direction Consulting",
-      "desc": "Visual systems, iconography, image direction."
+      "desc": "Visual identity, image direction and iconographic research for campaigns, editorials, publications and brand worlds. Each visual system is developed through archival research, reference building and a deep understanding of fashion history, visual culture and contemporary image-making."
     },
     {
       "num": "III",
       "name": "Marketing, Storytelling & Wholesale",
-      "desc": "Product language, brand narrative, wholesale & marketing strategy."
+      "desc": "Wholesale strategy and business development for independent fashion brands, spanning market positioning, pricing architecture, brand books, line sheets, buyer outreach, and agency and showroom strategy. C19 helps translate a brand's identity into a coherent commercial narrative that resonates with buyers, retailers and industry partners."
     },
     {
       "num": "IV",
       "name": "Brand Management",
-      "desc": "Audits, inventory architecture, operational frameworks."
+      "desc": "Full-scope brand development for emerging houses: pitch decks, identity, product architecture, copy guidelines, operational structure. Building the infrastructure a brand needs before it scales."
     },
     {
       "num": "V",
       "name": "Production & Celebrity Coordination",
-      "desc": "Shoots, VIP trips, cultural events, guest experience."
+      "desc": "Show and event production, press and guest relations, VIP and celebrity coordination – fittings, transfers, welcome packs, seating, show-day arrivals. Calm under Fashion Week pressure."
     },
     {
       "num": "VI",
-      "name": "Editorial Curation",
-      "desc": "Publications, partnerships, archive-driven content."
+      "name": "Editorial Curation & Copywriting",
+      "desc": "Editorial strategy, research and content development for brands, publications and cultural institutions. From interviews, long-form writing and copywriting to research dossiers, presentations and editorial narratives, C19 develops content that is rigorous, engaging and tailored to its audience."
     }
   ],
   "writing": [
     {
-      "slug": "w-gestures",
-      "num": "2026",
-      "year": "2026",
-      "title": "Nietzsche's Shadow in Ecological Thought",
-      "venue": "Opium Philosophy. ",
-      "summary": "A co-organised study day bringing together designers, archivists, and researchers to examine how the fashion gesture is repeated, transmitted, and altered over time.",
-      "image": ""
-    },
-    {
-      "slug": "w-sustainability",
-      "num": "2024—",
+      "slug": "w-nietzsche",
+      "num": "2025",
       "year": "2025",
-      "title": "032c, Sara Choi",
-      "venue": "A conversation with Sara Choi for 032c.",
-      "summary": "Ongoing doctoral research examining the fashion design gesture as a unit of craft knowledge, and what its sustainability means for designers, ateliers, and archives.",
+      "title": "Nietzsche's Shadow in Ecological Thought",
+      "venue": "Opium Philosophie — 'Ruines' issue",
+      "summary": "Genealogy of morality and the construction of a future ethics in post-apocalyptic science-fiction worlds. This essay traces Nietzsche's shadow across ecological thought – reading post-apocalyptic science fiction as a laboratory where the genealogy of morality is re-run under conditions of collapse, and where a future ethics is constructed from the ruins of the present one.",
       "image": ""
     },
     {
-      "slug": "w-boro",
+      "slug": "w-032c",
+      "num": "2025",
+      "year": "2025",
+      "title": "032c — Sara Choi",
+      "venue": "032c (details to be confirmed)",
+      "summary": "A conversation with Sara Choi for 032c. Written for 032c, this piece profiles Sara Choi – her practice, references and position within the current design landscape.",
+      "image": ""
+    },
+    {
+      "slug": "w-grills",
       "num": "2025",
       "year": "2025",
       "title": "Grills: Smiling at the System",
-      "venue": "Cara Magazine",
-      "summary": "A conference paper reading the Japanese boro tradition as a form of embodied, generational knowledge — repair as authorship rather than concealment.",
-      "image": ""
-    },
-    {
-      "slug": "w-conversations",
-      "num": "2025—",
-      "year": "2025—",
-      "title": "Conversations",
-      "venue": "Interview series — designers, archivists, makers",
-      "summary": "An ongoing interview series with the people who hold fashion’s institutional memory — designers, archivists, and makers, in their own words.",
-      "image": ""
-    },
-    {
-      "slug": "w-thoughts",
-      "num": "2024—",
-      "year": "2024—",
-      "title": "Thoughts on Fashion",
-      "venue": "Essays — theory, craft, repair cultures",
-      "summary": "A running collection of essays on fashion theory, craft, and repair cultures — short, considered pieces written between formal research and practice.",
+      "venue": "Cara Magazine — Mouth Issue, n°03 (year to be confirmed)",
+      "summary": "Grills, une dent contre le système – another politics of the smile. Published in Cara Magazine's Mouth Issue, this bilingual essay dives into the history of dental adornment – from Mayan gemstone inlays to Eddie Plein's custom grillz – reading grills through Barthes' fashion system as ornaments that politicise the mouth: part jewellery, part armour, a smile turned against the codes of dominant beauty.",
       "image": ""
     },
     {
@@ -221,26 +251,80 @@
       "num": "2023—",
       "year": "2023—",
       "title": "FERAL — Selected Writings",
-      "venue": "Independent editorial platform",
-      "summary": "Selected writings from FERAL, an independent editorial platform for criticism and long-form thinking on fashion and image culture.",
+      "venue": "Independent editorial platform · feral20290719.com",
+      "summary": "Founder & Editor-in-Chief. A monthly digital publication on speculative fashion ecologies, aesthetics and cultural narratives, born from the platform LazyF4shiongurl (2023). Issue 01 'A Fetish for Hybrids', Issue 02 'Enclothed Intimacy & Design Positivity'.",
+      "image": ""
+    },
+    {
+      "slug": "w-boro",
+      "num": "2026",
+      "year": "2026",
+      "title": "Material Memories and Internal Ecologies: Reconnecting Fashion to Cultural Continuity Through Boro in High Fashion",
+      "venue": "28th IFFTI Annual Conference, RMIT Vietnam, Ho Chi Minh City",
+      "summary": "Conference paper reading boro as material memory and a form of cultural continuity within high fashion.",
+      "image": ""
+    },
+    {
+      "slug": "w-transparent",
+      "num": "2026",
+      "year": "2026",
+      "title": "Transparent Garments and Image-Clothing: On the Digitalization of Fashion and the Loss of Enclothed Knowledge",
+      "venue": "16th International Conference on the Image, Université Paris 1 Panthéon-Sorbonne — Selected as Emerging Scholar",
+      "summary": "Conference paper on the digitalization of fashion, transparent garments and the loss of enclothed knowledge.",
+      "image": ""
+    },
+    {
+      "slug": "w-repair",
+      "num": "2025",
+      "year": "2025",
+      "title": "The Revival of the Japanese Technique of Boro in High Fashion: Mending, Materiality, and the Ecology of Repair",
+      "venue": "CIMAD, International Conference on Art and Design Practices, Saint-Étienne & Lyon — forthcoming in proceedings",
+      "summary": "Conference paper on boro, mending, materiality and the ecology of repair in high fashion.",
+      "image": ""
+    },
+    {
+      "slug": "w-punk",
+      "num": "2025",
+      "year": "2025",
+      "title": "Rebuilding Fashion through Subversion: Punk, Grunge, and Politics of Deconstruction in Luxury Ready-to-Wear",
+      "venue": "Nouvelles Gestualités Dissidentes symposium, ENSAD Limoges & Université Paris 1",
+      "summary": "Symposium paper on punk, grunge and the politics of deconstruction in luxury ready-to-wear.",
+      "image": ""
+    },
+    {
+      "slug": "w-gestures",
+      "num": "2026",
+      "year": "2026",
+      "title": "Gestures and Temporalities of Fashion",
+      "venue": "Study day — Institut Français de la Mode, co-organised with Jeanne-Léopoldine Claustre and Estelle Dupuis",
+      "summary": "A co-organised study day bringing together designers, archivists, and researchers to examine how the fashion gesture is repeated, transmitted, and altered over time. Chaired a practitioner discussion with Tim Wirth and Igor Dieryck (Dior Homme).",
+      "image": ""
+    },
+    {
+      "slug": "w-sustainability",
+      "num": "2024—",
+      "year": "2024—",
+      "title": "On the Sustainability of the Fashion Design Gesture",
+      "venue": "Doctoral research — Université Paris 1 Panthéon-Sorbonne / Università di Bologna, under Barbara Formis and Stefano Marino, IFM Doctoral Research Programme",
+      "summary": "Ongoing doctoral research investigating ecological aesthetics, anti-fashion, material cultures and the structure of the fashion system in the Anthropocene.",
       "image": ""
     }
   ],
   "clients": [
-    "FORM.Space",
-    "Acne Studios ",
-    "Carhartt WIP",
-    "Unhome ",
-    "Ashaalia",
+    "PUIG",
+    "Acne Studios",
     "Middaia",
     "ENAMI",
-    "Harper's Bazaar Turkiye "
+    "Carhartt WIP",
+    "Ashaalia",
+    "Messika",
+    "FORM"
   ],
   "featuredSlugs": [
-    "p-venice",
-    "p-grandpalais",
-    "p-carhartt",
-    "p-cartier"
+    "p-conversations",
+    "p-middaia",
+    "p-enami",
+    "p-form"
   ],
   "site": {
     "heroTagline": "Fashion, Culture, Archives",
