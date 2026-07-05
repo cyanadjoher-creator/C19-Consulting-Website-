@@ -2,9 +2,9 @@
   "collection": {
     "p-venice": {
       "fig": "Fig. 02",
-      "title": "01 – Conversations Archive",
-      "client": "Editorial Series ",
-      "year": "Editorial Series ",
+      "title": "Venice Biennale Inspiration Trip",
+      "client": "CREO — PUIG",
+      "year": "2026",
       "services": "Production & Coordination, Creative Strategy",
       "location": "Venice, Italy",
       "status": "In production",
@@ -14,9 +14,9 @@
     },
     "p-grandpalais": {
       "fig": "Fig. 03",
-      "title": "02 – Middaia",
-      "client": "Wholesale Development",
-      "year": "Wholesale Development",
+      "title": "Inspiration Days, Grand Palais",
+      "client": "CREO — PUIG",
+      "year": "2026",
       "services": "Creative Strategy, Production",
       "location": "Paris, France",
       "status": "In production",
@@ -38,9 +38,9 @@
     },
     "p-cartier": {
       "fig": "Fig. 09",
-      "title": "04 – FORM ",
-      "client": "04 – FORM.Space",
-      "year": "Archive, Research & Iconography",
+      "title": "Cartier Special, Cover Production",
+      "client": "Harper’s Bazaar Turkey",
+      "year": "2025",
       "services": "Production & Coordination",
       "location": "Paris, France",
       "status": "Delivered",
@@ -62,9 +62,9 @@
     },
     "p-carhartt": {
       "fig": "Fig. 08",
-      "title": "03 – ENAMI",
-      "client": " Brand Management & Wholesale ",
-      "year": "Brand Management & Wholesale ",
+      "title": "French Voice Programme",
+      "client": "Carhartt WIP",
+      "year": "2025",
       "services": "Marketing & Storytelling",
       "location": "Paris, France",
       "status": "Delivered",
@@ -243,15 +243,15 @@
     "p-cartier"
   ],
   "site": {
-    "heroTagline": "fashion - Culture - Archives ",
-    "heroHeadline": "",
-    "heroAuthor": "",
+    "heroTagline": "Fashion — Art — Archives",
+    "heroHeadline": "A consulting practice for fashion, art, and archives — creative strategy, art direction, production, and editorial curation, conducted with the care of a collection.",
+    "heroAuthor": "Anaïs Cyana-Djoher Hadjali — Paris",
     "quote": "Close attention, precise description, care.",
     "aboutIntro": "C19 Consulting is the practice of Anaïs Cyana-Djoher Hadjali — consultant, researcher, and writer working at the intersection of fashion, art, and archives.",
     "aboutPara1": "Founded in Paris, C19 works with brands, institutions, and platforms on creative strategy, art direction, production, and editorial projects. The practice is grounded in doctoral research on the fashion design gesture (Université Paris 1 Panthéon-Sorbonne / Università di Bologna), and treats every engagement with the method of the archive: close attention, precise description, care.",
     "aboutPara2": "Work is conducted in English and French, from Paris and wherever the project requires — most recently Venice, Milan, New York, and Tokyo.",
     "footerBlurb": "C19 Consulting · Paris – Tokyo · cyana@c19consulting.com · @notcyana",
     "footerCopyright": "© C19 Consulting, 2026",
-    "footerCity": "Paris "
+    "footerCity": "Paris"
   }
 }
