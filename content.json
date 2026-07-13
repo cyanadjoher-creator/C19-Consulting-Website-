@@ -190,32 +190,38 @@
     {
       "num": "I",
       "name": "Creative Strategy Consulting",
-      "desc": "Positioning, narrative architecture, and cultural and art direction for fashion brands and cultural institutions. Drawing on more than five years of experience across the fashion industry, C19 combines fashion theory, market intelligence and trend analysis to translate ideas into clear, actionable strategies that creative teams can execute."
+      "desc": "Positioning, narrative architecture, and cultural and art direction for fashion brands and cultural institutions. Drawing on more than five years of experience across the fashion industry, C19 combines fashion theory, market intelligence and trend analysis to translate ideas into clear, actionable strategies that creative teams can execute.",
+      "image": "/uploads/1783282651745-46450ed956f7df765a7a7069ab150515.jpg"
     },
     {
       "num": "II",
       "name": "Art Direction Consulting",
-      "desc": "Visual identity, image direction and iconographic research for campaigns, editorials, publications and brand worlds. Each visual system is developed through archival research, reference building and a deep understanding of fashion history, visual culture and contemporary image-making."
+      "desc": "Visual identity, image direction and iconographic research for campaigns, editorials, publications and brand worlds. Each visual system is developed through archival research, reference building and a deep understanding of fashion history, visual culture and contemporary image-making.",
+      "image": "/uploads/1783282654725-dab31a477f50b585f9fcaf816b67f8ac.jpg"
     },
     {
       "num": "III",
       "name": "Marketing, Storytelling & Wholesale",
-      "desc": "Wholesale strategy and business development for independent fashion brands, spanning market positioning, pricing architecture, brand books, line sheets, buyer outreach, and agency and showroom strategy. C19 helps translate a brand's identity into a coherent commercial narrative that resonates with buyers, retailers and industry partners."
+      "desc": "Wholesale strategy and business development for independent fashion brands, spanning market positioning, pricing architecture, brand books, line sheets, buyer outreach, and agency and showroom strategy. C19 helps translate a brand's identity into a coherent commercial narrative that resonates with buyers, retailers and industry partners.",
+      "image": "/uploads/1783282660947-50d7dae04403ded8bafa38f3ab360be0.jpg"
     },
     {
       "num": "IV",
       "name": "Brand Management",
-      "desc": "Full-scope brand development for emerging houses: pitch decks, identity, product architecture, copy guidelines, operational structure. Building the infrastructure a brand needs before it scales."
+      "desc": "Full-scope brand development for emerging houses: pitch decks, identity, product architecture, copy guidelines, operational structure. Building the infrastructure a brand needs before it scales.",
+      "image": "/uploads/1783282664601-Capture-d-e-cran-2026-07-05-a--16.00.11.png"
     },
     {
       "num": "V",
       "name": "Production & Celebrity Coordination",
-      "desc": "Show and event production, press and guest relations, VIP and celebrity coordination – fittings, transfers, welcome packs, seating, show-day arrivals. Calm under Fashion Week pressure."
+      "desc": "Show and event production, press and guest relations, VIP and celebrity coordination – fittings, transfers, welcome packs, seating, show-day arrivals. Calm under Fashion Week pressure.",
+      "image": "/uploads/1783283082280-c21ed107c73c3d90774e5bfcf5600691.jpg"
     },
     {
       "num": "VI",
       "name": "Editorial Curation & Copywriting",
-      "desc": "Editorial strategy, research and content development for brands, publications and cultural institutions. From interviews, long-form writing and copywriting to research dossiers, presentations and editorial narratives, C19 develops content that is rigorous, engaging and tailored to its audience."
+      "desc": "Editorial strategy, research and content development for brands, publications and cultural institutions. From interviews, long-form writing and copywriting to research dossiers, presentations and editorial narratives, C19 develops content that is rigorous, engaging and tailored to its audience.",
+      "image": "/uploads/1783283087577-a966493721f70c6f93cfe5527befa46c.jpg"
     }
   ],
   "writing": [
@@ -338,9 +344,6 @@
     "footerCopyright": "© C19 Consulting, 2026",
     "footerCity": "Paris",
     "heroImage": "/uploads/1783350624390-a938fac5dfc651eaffe52c638131cc09.jpg",
-    "brandName": "SIENA 19 CONSULTING",
-    "servicesImage1": "/uploads/1783282651745-46450ed956f7df765a7a7069ab150515.jpg",
-    "servicesImage2": "/uploads/1783282654725-dab31a477f50b585f9fcaf816b67f8ac.jpg",
-    "servicesImage3": "/uploads/1783282660947-50d7dae04403ded8bafa38f3ab360be0.jpg"
+    "brandName": "SIENA 19 CONSULTING"
   }
 }
