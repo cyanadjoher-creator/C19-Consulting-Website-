@@ -333,5 +333,115 @@
     "footerCity": "Paris",
     "heroImage": "/uploads/1783999549730-IMG_7796.jpg",
     "brandName": "C19 CONSULTING"
-  }
+  },
+  "feral": [
+    {
+      "slug": "f-conversations-geray-mena",
+      "title": "Conversations Archive — Geray Mena",
+      "year": "2024",
+      "summary": "An interview drawn from the Conversations archive, in conversation with Geray Mena.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-conversations-louisa-gagliardi",
+      "title": "Conversations Archive — Louisa Gagliardi",
+      "year": "2024",
+      "summary": "An interview drawn from the Conversations archive, in conversation with Louisa Gagliardi.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-thoughts-on-fashion-2",
+      "title": "Thoughts on Fashion #2",
+      "year": "2024",
+      "summary": "Part of the Thoughts on Fashion series.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-thoughts-on-fashion-1",
+      "title": "Thoughts on Fashion #1",
+      "year": "2023",
+      "summary": "Part of the Thoughts on Fashion series.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-issue-02",
+      "title": "FERAL.20290719 Issue 0.2",
+      "year": "2024",
+      "summary": "FERAL.20290719, Issue 0.2.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-issue-01",
+      "title": "FERAL.20290719 Issue 0.1",
+      "year": "2023",
+      "summary": "FERAL.20290719, Issue 0.1.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-fashion-posthumanism",
+      "title": "Fashion and Posthumanism",
+      "year": "2024",
+      "summary": "On fashion and posthumanism.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-ready-made-ecologies",
+      "title": "“Ready Made Ecologies”",
+      "year": "2024",
+      "summary": "On ready-made ecologies in fashion.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-heros-sf-post-apocalyptique",
+      "title": "Sur les héros de science-fiction post-apocalyptique",
+      "year": "2024",
+      "summary": "Sur les héros de la science-fiction post-apocalyptique.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-post-apocalyptic-fashion",
+      "title": "Post-Apocalyptic Fashion",
+      "year": "2024",
+      "summary": "On post-apocalyptic fashion.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-core-aesthetics",
+      "title": "About Core-Aesthetics",
+      "year": "2023",
+      "summary": "On core-aesthetics.",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    },
+    {
+      "slug": "f-heaven-marketing",
+      "title": "Is Heaven Really Cool or Genius Marketing?",
+      "year": "2023",
+      "summary": "Is heaven really cool, or just genius marketing?",
+      "image": "",
+      "imageA1": "",
+      "imageA2": ""
+    }
+  ]
 }
