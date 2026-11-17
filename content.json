@@ -8,54 +8,96 @@
       "services": "Editorial curation, interviews, editing, layout and talent coordination",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Research, archive and editorial",
+      "category": "Editorial",
       "desc": "Conversations Archive is a series of long-form interviews with designers and artists working at the edges of the fashion system. Developed and edited by Cyana-Djoher Hadjali, the project treats the interview as primary material: a way to document creative positions and working methods as they emerge. For Newcoin Research Center, the series extended internationally through conversations with Tomikono Wigg, Louisa Gagliardi, Vitalii Akiniov and J.Kim. The work included editorial coordination, layouts and talent submissions across fashion, art and Web3.",
-      "image": "/uploads/1783282651745-46450ed956f7df765a7a7069ab150515.jpg",
-      "imageA1": "/uploads/1794951232048-igexport-DA8ycHAg3aL.jpg",
-      "imageA2": "/uploads/1794951232049-igexport-DA8ycHAg3aL-3.jpg",
-      "imageB1": "/uploads/1794951954584-igexport-DazShWZkXKK.jpg",
-      "imageB2": "/uploads/1794951954585-igexport-Db5qGsCEW0b.jpg"
+      "image": "/uploads/1794953280442-p-conversations-cover.jpg",
+      "cardBullets": [
+        "Editorial curation",
+        "Interviews",
+        "Layout & talent coordination"
+      ],
+      "gallery": [
+        "/uploads/1794953280443-p-conversations-01.jpg",
+        "/uploads/1794953280444-p-conversations-02.jpg",
+        "/uploads/1794953280445-p-conversations-03.jpg",
+        "/uploads/1794953280446-p-conversations-04.jpg",
+        "/uploads/1794953280447-p-conversations-05.jpg"
+      ]
     },
     "p-middaia": {
       "fig": "Fig. 02",
-      "title": "Middaia: Wholesale development",
-      "client": "Middaia",
+      "title": "Middaia: Wholesale Development & Production",
+      "client": "Maimoun (Brooklyn, NY), BEAMS Tokyo Harajuku, Rumor CDMX",
       "year": "Ongoing",
-      "services": "Market positioning, wholesale strategy, buyer outreach, retailer negotiation, press and event support",
-      "location": "New York, United States",
+      "services": "Brand book, line sheet, order sheet, stockist relations",
+      "location": "Paris, France",
       "status": "Ongoing",
-      "category": "Strategy, brand and market",
-      "desc": "C19 leads wholesale development for Middaia, the independent label founded by Jade Nguyen Van. The work connects market positioning with seasonal wholesale strategy, buyer outreach and retailer negotiation, including development toward the Asian market. Press materials and outreach for trunk shows support the wider programme. The aim is to build a distribution network that fits the label's identity and pace of growth.",
-      "image": "/uploads/1783282654725-dab31a477f50b585f9fcaf816b67f8ac.jpg",
-      "imageA1": "/uploads/1794951954574-igexport-DYPrkgUClfV.jpg"
+      "category": "Strategy: 360 Marketing, Brand Development & Wholesale",
+      "desc": "C19 leads wholesale development and production for Middaia, the independent label founded by Jade Nguyen Van.\n- Wholesale structuration\n- Development of the brand book, line sheet and order sheet\n- Stockist relations with Maimoun (Brooklyn, NY), BEAMS Tokyo Harajuku and Rumor CDMX\n- Follow-up logistics\n- Trunk show production, including the Maimoun trunk show in Brooklyn",
+      "image": "/uploads/1794953280448-p-middaia-cover.jpg",
+      "cardBullets": [
+        "Wholesale structuration",
+        "Brand book & line sheet",
+        "Stockist relations",
+        "Trunk show production"
+      ],
+      "gallery": [
+        "/uploads/1794953280449-p-middaia-01.jpg",
+        "/uploads/1794953280450-p-middaia-02.jpg",
+        "/uploads/1794953280451-p-middaia-03.jpg"
+      ]
     },
     "p-enami": {
       "fig": "Fig. 03",
       "title": "ENAMI: Brand development and wholesale",
       "client": "ENAMI",
       "year": "Ongoing",
-      "services": "Brand management, positioning, product architecture, wholesale strategy and buyer-facing materials",
+      "services": "Project direction, wholesale materials, showroom negotiation",
       "location": "Paris, France",
       "status": "Ongoing",
-      "category": "Strategy, brand and market",
-      "desc": "C19 works with ENAMI as an embedded brand development and wholesale partner. The work spans positioning, brand structure, product architecture and the buyer-facing materials needed to bring the label to market. Wholesale is treated as part of the brand's expression, connecting its identity with the retailers and audiences it wants to reach.",
-      "image": "/uploads/1783282660947-50d7dae04403ded8bafa38f3ab360be0.jpg"
+      "category": "Strategy: 360 Marketing, Brand Development & Wholesale",
+      "desc": "C19 works with ENAMI as an embedded brand development and wholesale partner.\n- Brand development planning and project direction: follow-up, logistics, factory liaison\n- Marketing at large\n- Buyer-facing materials: line sheet, order sheet, pricing structure, delivery terms, MOQ\n- Key achievement: negotiation and organisation of the SS26 showroom with Sabukaru (Japanese magazine), June 2025",
+      "image": "/uploads/1794953280452-p-enami-cover.jpg",
+      "cardBullets": [
+        "Project direction",
+        "Wholesale materials",
+        "Showroom negotiation",
+        "Marketing"
+      ],
+      "gallery": [
+        "/uploads/1794953280453-p-enami-01.jpg",
+        "/uploads/1794953280454-p-enami-02.jpg"
+      ]
     },
     "p-form": {
       "fig": "Fig. 04",
-      "title": "FORM: Fashion archive and Academy",
+      "title": "FORM: Archive Lead & Platform Architect",
       "client": "FORM",
       "year": "Ongoing",
       "services": "Archive development, research, editorial direction and video hosting",
       "location": "Paris, France",
       "status": "Ongoing",
-      "category": "Research, archive and editorial",
-      "desc": "As Archive Lead at FORM, Cyana-Djoher Hadjali contributes to the development of a fashion archive platform, sourcing, structuring and narrating designer histories. She also hosts FORM Academy, a video series on fashion designers drawn from her doctoral research. Each episode combines biographical analysis with close readings of collections and runway shows.",
-      "image": "/uploads/1783282664601-Capture-d-e-cran-2026-07-05-a--16.00.11.png",
-      "imageA1": "/uploads/1794951232056-igexport-DfpdMo2iByS.jpg",
-      "imageA2": "/uploads/1794951232057-igexport-DfpdMo2iByS-2.jpg",
-      "imageB1": "/uploads/1794951232058-igexport-DfpdMo2iByS-5.jpg",
-      "imageB2": "/uploads/1794951232059-igexport-DfpdMo2iByS-7.jpg"
+      "category": "Systems Thinking & Technologies",
+      "desc": "As Archive Lead and Platform Architect, Cyana-Djoher Hadjali develops FORM's archive platform: its architecture, sourcing and the structuring of designer histories. She hosts FORM Academy, a video format on fashion designers drawn from her doctoral research, and leads editorial research and interviews.",
+      "image": "/uploads/1794953280455-p-form-cover.jpg",
+      "cardBullets": [
+        "Archive platform architecture",
+        "Sourcing & structuring",
+        "FORM Academy",
+        "Editorial research"
+      ],
+      "featuredTitle": "FORM: Archive Lead & Platform Architect",
+      "featuredSubtitle": "Host of FORM Academy formats, interviews",
+      "gallery": [
+        "/uploads/1794953280456-p-form-01.jpg",
+        "/uploads/1794953280457-p-form-02.jpg",
+        "/uploads/1794953280458-p-form-03.jpg",
+        "/uploads/1794953280459-p-form-04.jpg",
+        "/uploads/1794953280460-p-form-05.jpg",
+        "/uploads/1794953280461-p-form-06.jpg",
+        "/uploads/1794953280462-p-form-07.jpg",
+        "/uploads/1794953280463-p-form-08.jpg"
+      ]
     },
     "p-acne": {
       "fig": "Fig. 05",
@@ -65,9 +107,15 @@
       "services": "VIP and celebrity coordination, event production, guest experience and show operations",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Production and experiences",
-      "desc": "C19 supported Acne Studios' Spring/Summer 2027 (SS27) Paris Fashion Week show through VIP and celebrity guest coordination, including transfers, hair and make-up scheduling, fittings, welcome packs, hospitality and show-day arrivals. This latest engagement builds on a longer relationship with the house. From 2022 to 2023, Cyana-Djoher Hadjali worked within the Events & Projects department, contributing to event production from sourcing through breakdown, budget tracking, call sheets, schedules, the Spring/Summer 2023 show and front-of-house operations. She also coordinated the press trip to Kero AB in Pajala and Stockholm for the launch of the Acne Studios Kero Boots.",
-      "image": "/uploads/1783283504632-Capture-d-e-cran-2026-07-05-a--22.26.55.png"
+      "category": "Production & Guest Experience",
+      "desc": "C19 supported Acne Studios' Spring/Summer 2027 (SS27) Paris Fashion Week show through VIP and celebrity guest coordination, including transfers, hair and make-up scheduling, fittings, welcome packs, hospitality and show-day arrivals. Cyana-Djoher Hadjali also coordinated the press trip to Kero AB in Pajala and Stockholm for the launch of the Acne Studios Kero Boots.\n\nAdditional services (not part of the Acne scope): event production, show production, collection coordination.",
+      "image": "/uploads/1783283504632-Capture-d-e-cran-2026-07-05-a--22.26.55.png",
+      "cardBullets": [
+        "VIP & guest coordination",
+        "Show-day operations",
+        "Transfers & scheduling"
+      ],
+      "gallery": []
     },
     "p-messika": {
       "fig": "Fig. 06",
@@ -77,21 +125,34 @@
       "services": "Press relations, guest list management, invitation logistics and show-day coordination",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Production and experiences",
+      "category": "Production & Guest Experience",
       "desc": "C19 joined the press and public relations team for Messika's Paris Fashion Week show. The work included guest list management, invitation logistics, calligraphy coordination, seating plan support, photographer accreditation, press check-ins and live liaison with public relations teams and media on show day.",
-      "image": "/uploads/1783283082280-c21ed107c73c3d90774e5bfcf5600691.jpg"
+      "image": "/uploads/1783283082280-c21ed107c73c3d90774e5bfcf5600691.jpg",
+      "cardBullets": [
+        "Press relations",
+        "Guest list management",
+        "Show-day coordination"
+      ],
+      "gallery": []
     },
     "p-puig-creo": {
       "fig": "Fig. 07",
-      "title": "PUIG Creative Hub: Editorial and cultural content",
+      "title": "PUIG Creative Hub: Editorial & Cultural Mapping",
       "client": "PUIG",
       "year": "Ongoing",
       "services": "Editorial strategy, French and English copywriting, content curation and visual coordination",
       "location": "Paris, France",
       "status": "Ongoing",
-      "category": "Research, archive and editorial",
-      "desc": "C19 develops editorial copy and curates web content for the PUIG Creative Hub in French and English. The work spans fragrance and beauty storytelling, city and cultural guides, trend-focused content, and coordination of copy and visual materials across the group's cultural programming.",
-      "image": "/uploads/1784000084602-images.jpg"
+      "category": "Systems Thinking & Technologies",
+      "desc": "C19 develops editorial copy and curates web content for the PUIG Creative Hub in French and English.\n- Editorial production: fragrance and beauty storytelling, city and cultural guides, trend-focused content\n- Cultural mapping and sourcing\n- Brand intelligence\n- Coordination of copy and visual materials across the group's cultural programming",
+      "image": "/uploads/1784000084602-images.jpg",
+      "cardBullets": [
+        "Editorial production",
+        "Cultural mapping",
+        "Sourcing",
+        "Brand intelligence"
+      ],
+      "gallery": []
     },
     "p-carhartt": {
       "fig": "Fig. 08",
@@ -101,9 +162,17 @@
       "services": "Creative writing and French product copywriting",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Research, archive and editorial",
+      "category": "Editorial",
       "desc": "C19's work with Carhartt WIP has included creative writing for WIP.08 and French product copy for the 2026 seasonal range. The copy translates technical garment information into precise French while staying true to the brand's established voice.",
-      "image": "/uploads/1784000213607-59c6a10f44fd66e47d942448e8e1b4f9.jpg"
+      "image": "/uploads/1794953280464-p-carhartt-cover.jpg",
+      "cardBullets": [
+        "Creative writing",
+        "Product copywriting"
+      ],
+      "gallery": [
+        "/uploads/1794953280465-p-carhartt-01.jpg",
+        "/uploads/1794953280466-p-carhartt-02.jpg"
+      ]
     },
     "p-cartier": {
       "fig": "Fig. 09",
@@ -113,21 +182,35 @@
       "services": "Editorial production and project management",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Production and experiences",
+      "category": "Production & Guest Experience",
       "desc": "C19 coordinated production and project management for a Harper's Bazaar Turkey × Cartier cover shoot in Paris. The work included talent, location and logistics coordination, alongside on-set operations for an international editorial team.",
-      "image": "/uploads/1783283087577-a966493721f70c6f93cfe5527befa46c.jpg"
+      "image": "/uploads/1794953280467-p-cartier-cover.jpg",
+      "cardBullets": [
+        "Editorial production",
+        "Project management"
+      ],
+      "gallery": [
+        "/uploads/1794953280468-p-cartier-01.jpg"
+      ]
     },
     "p-ashaalia": {
       "fig": "Fig. 10",
-      "title": "Ashaalia: Creative direction and wholesale strategy",
+      "title": "Ashaalia: 360 Marketing Direction & Creative Strategy",
       "client": "Ashaalia",
       "year": "2025 onward",
-      "services": "Brand audit, positioning, creative direction, product copy, e-commerce structure and wholesale development",
+      "services": "Brand audit, creative direction, Instagram management, buyer database",
       "location": "Melbourne, Australia",
       "status": "Ongoing",
-      "category": "Strategy, brand and market",
-      "desc": "C19 supports Ashaalia across brand strategy, creative direction and wholesale development. The work includes a brand audit and positioning, product language and copy guidelines, e-commerce structure and wholesale outreach. Together, these elements build a clearer narrative and the practical infrastructure needed to present the brand to customers and buyers.",
-      "image": "/uploads/1784000015159-DSCF2325.jpg"
+      "category": "Strategy: 360 Marketing, Brand Development & Wholesale",
+      "desc": "C19 provides 360 marketing direction and creative strategy for Ashaalia.\n- Brand audit, positioning, creative direction, product copywriting, e-commerce structure, wholesale development, shoot production\n- Strategic planning\n- Production and social media management, with Instagram handled in full\n- Buyer newsletter and constitution of a buyers database\n- Key achievement: showroom negotiations, sourcing partners and agencies",
+      "image": "/uploads/1784000015159-DSCF2325.jpg",
+      "cardBullets": [
+        "Brand audit & positioning",
+        "Creative direction",
+        "Instagram, 100%",
+        "Buyer database"
+      ],
+      "gallery": []
     },
     "p-palladium": {
       "fig": "Fig. 11",
@@ -137,10 +220,17 @@
       "services": "Creative writing and voice-over",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Research, archive and editorial",
+      "category": "Editorial",
       "desc": "C19 contributed creative writing and voice-over to Palladium's Spring/Summer 2022 campaign, 'Ticket to Earth', created for the brand's 75th anniversary.",
-      "image": "/uploads/1784000402838-Capture-d-e-cran-2026-07-14-a--12.39.53.png",
-      "imageA1": "/uploads/1794951232060-8c9b57948c66e7617fb29d42b07ddfcb.jpg"
+      "image": "/uploads/1794953280469-p-palladium-cover.jpg",
+      "cardBullets": [
+        "Creative writing",
+        "Voice-over"
+      ],
+      "gallery": [
+        "/uploads/1794953280470-p-palladium-01.jpg",
+        "/uploads/1794953280471-p-palladium-02.jpg"
+      ]
     },
     "p-newcoin": {
       "fig": "Fig. 12",
@@ -150,13 +240,20 @@
       "services": "Cultural trend analysis, editorial strategy, interviews, layout and narrative direction",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Research, archive and editorial",
+      "category": "Systems Thinking & Technologies",
       "desc": "At Newcoin Research Center, Cyana-Djoher Hadjali worked on cultural trend analysis and editorial strategy at the intersection of fashion, aesthetics and Web3. The role included interviews with international designers and artists, editorial layouts and narrative direction.",
       "image": "/uploads/1784000985890-Capture-d-e-cran-2026-07-14-a--12.49.34.png",
       "imageA1": "/uploads/1794951232052-igexport-DA8ycHAg3aL-5.jpg",
       "imageA2": "/uploads/1794951232053-igexport-DA8ycHAg3aL-7.jpg",
       "imageB1": "/uploads/1794951232054-igexport-DA8ycHAg3aL-9.jpg",
-      "imageB2": "/uploads/1794951232055-igexport-DA8ycHAg3aL-11.jpg"
+      "imageB2": "/uploads/1794951232055-igexport-DA8ycHAg3aL-11.jpg",
+      "cardBullets": [
+        "Cultural trend analysis",
+        "Editorial strategy",
+        "Interviews",
+        "Narrative direction"
+      ],
+      "gallery": []
     },
     "p-premiercri": {
       "fig": "Fig. 13",
@@ -166,79 +263,101 @@
       "services": "Brand development, digital direction, social strategy, art direction, copywriting and event production",
       "location": "Paris, France",
       "status": "Delivered",
-      "category": "Strategy, brand and market",
+      "category": "Strategy: 360 Marketing, Brand Development & Wholesale",
       "desc": "C19 supported BADSEKI's brand development through website development, social media strategy, art direction and copywriting. The work also included the organisation of launch events, screenings and concert evenings, connecting the brand's digital presence with a programme of live cultural activity.",
-      "image": "/uploads/1783999994725-Capture-d-e-cran-2026-07-14-a--12.33.02.png"
+      "image": "/uploads/1783999994725-Capture-d-e-cran-2026-07-14-a--12.33.02.png",
+      "cardBullets": [
+        "Brand development",
+        "Digital direction",
+        "Social strategy",
+        "Event production"
+      ],
+      "gallery": []
     },
     "p-unhome": {
       "fig": "Fig. 14",
-      "title": "UNHOME, Paris edition: Manifesto and retail experience",
-      "client": "UNHOME",
+      "title": "UNHOME: Manifesto, Retail Experience",
+      "client": "UNHOME, collaborator with Thibault de Tony",
       "year": "2026",
       "services": "Cultural research, manifesto writing, editorial development, invitations and guest coordination",
       "location": "Paris, France",
       "status": "In production",
-      "category": "Research, archive and editorial",
+      "category": "Systems Thinking & Technologies",
       "desc": "For UNHOME's Paris edition, C19 developed research and writing for a nomadic design retail concept, including a manifesto that frames design through the idea of the real home. The work also included invitations and guest coordination, bringing the project's ideas into the event experience.",
-      "image": ""
+      "image": "",
+      "cardBullets": [
+        "Manifesto",
+        "Retail experience",
+        "Guest experience"
+      ],
+      "featuredTitle": "UNHOME: Manifesto",
+      "featuredSubtitle": "Contributor to experience development",
+      "gallery": []
     }
   },
   "workCategories": [
-    "Strategy, brand and market",
-    "Research, archive and editorial",
-    "Production and experiences"
+    "Strategy: 360 Marketing, Brand Development & Wholesale",
+    "Systems Thinking & Technologies",
+    "Production & Guest Experience",
+    "Editorial"
   ],
   "services": [
     {
       "num": "I",
-      "name": "Cultural mapping and intelligence",
-      "desc": "Research into the cultural forces, subcultures, behaviours, aesthetics and technologies shaping a field. C19 maps references and relationships to help teams recognise where change is happening and what it could mean for their brand, product or audience.",
+      "name": "Cultural Mapping & Intelligence",
+      "tags": "RESEARCH · SYSTEMS THINKING · AI · ICONOGRAPHY & RESEARCH",
+      "desc": "Research into the cultural forces, subcultures, behaviours, aesthetics and technologies shaping a field. C19 maps references and relationships to help teams recognise where change is happening and what it could mean for their brand, product or audience. This includes AI-assisted research systems and knowledge architectures, the approach developed with FORM, applied at large.",
       "image": "/uploads/1783282651745-46450ed956f7df765a7a7069ab150515.jpg"
     },
     {
       "num": "II",
-      "name": "Strategic positioning and brand architecture",
-      "desc": "A clear position built from a precise understanding of the brand and its context. C19 helps define what a brand stands for, where it belongs, who it speaks to and how it can remain distinctive as its market changes.",
+      "name": "Brand Development",
+      "tags": "POSITIONING · BRAND ARCHITECTURE · WORLD-BUILDING · WHOLESALE · PRODUCTION",
+      "desc": "Brand development at large, from positioning to structuration. C19 defines what a brand stands for and where it belongs, builds its narrative and reference world, then structures how it reaches the market: product architecture, pricing, wholesale strategy, buyer-facing materials, and the production of shows, events and guest experiences.",
       "image": "/uploads/1783282654725-dab31a477f50b585f9fcaf816b67f8ac.jpg"
     },
     {
       "num": "III",
-      "name": "Brand narrative and world-building",
-      "desc": "The ideas, language and reference systems that give a brand a coherent world. C19 develops narrative architecture, creative platforms, verbal direction and cultural frameworks that teams can carry across products, campaigns, content and experiences.",
-      "image": "/uploads/1783282660947-50d7dae04403ded8bafa38f3ab360be0.jpg"
+      "name": "Creative Direction & Archives",
+      "tags": "MOODBOARDS · CREATIVE DECKS · ASSET BREAKDOWNS · ARCHIVAL & ICONOGRAPHIC RESEARCH",
+      "desc": "Visual research and creative direction for campaigns, editorials, publications and brand experiences: moodboards, creative decks, asset breakdowns for social media and shoot references, grounded in archival and iconographic research that connects an idea to the histories and visual codes it draws on.",
+      "image": "/uploads/1794953280472-creative-direction-archives-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280473-creative-direction-archives-01.jpg",
+        "/uploads/1794953280474-creative-direction-archives-02.jpg",
+        "/uploads/1794953280475-creative-direction-archives-03.jpg",
+        "/uploads/1794953280476-creative-direction-archives-04.jpg",
+        "/uploads/1794953280477-creative-direction-archives-05.jpg",
+        "/uploads/1794953280478-creative-direction-archives-06.jpg",
+        "/uploads/1794953280479-creative-direction-archives-07.jpg",
+        "/uploads/1794953280480-creative-direction-archives-08.jpg",
+        "/uploads/1794953280481-creative-direction-archives-09.jpg",
+        "/uploads/1794953280482-creative-direction-archives-10.jpg",
+        "/uploads/1794953280483-creative-direction-archives-11.jpg",
+        "/uploads/1794953280484-creative-direction-archives-12.jpg",
+        "/uploads/1794953280485-creative-direction-archives-13.jpg",
+        "/uploads/1794953280486-creative-direction-archives-14.jpg",
+        "/uploads/1794953280487-creative-direction-archives-15.jpg"
+      ]
     },
     {
       "num": "IV",
-      "name": "Creative direction, archives and iconography",
-      "desc": "Visual research and creative direction for campaigns, editorials, publications and brand experiences. Archival research, image analysis and carefully built reference systems connect a creative idea to the histories and visual codes it draws on.",
-      "image": "/uploads/1783999840142-Capture-d-e-cran-2026-07-14-a--12.29.54.png"
-    },
-    {
-      "num": "V",
-      "name": "Fashion brand and market development",
-      "desc": "Strategic and commercial support for fashion brands, from product architecture and pricing to wholesale strategy, linesheets, brand materials and buyer-facing narratives. C19 connects how a brand is understood culturally with how it is presented to the market.",
-      "image": "/uploads/1783999616958-Capture-d-e-cran-2026-07-05-a--22.26.55.png"
-    },
-    {
-      "num": "VI",
-      "name": "Editorial research and writing",
-      "desc": "Research-led writing and content development for brands, publications and cultural organisations. This includes interviews, long-form writing, editorial strategy, research dossiers, presentations, copywriting and cultural storytelling.",
+      "name": "Editorial, Writing & Collaborations",
+      "tags": "INTERVIEWS · LONG-FORM WRITING · EDITORIAL STRATEGY · ARTIST COLLABORATIONS",
+      "desc": "Research-led writing and content development for brands, publications and cultural organisations: interviews, long-form writing, editorial strategy, research dossiers, presentations, copywriting and cultural storytelling. C19 also works with artists, designers and independent cultural practitioners on projects that bring research, writing and creative practice together, each shaped around the practitioner, the work and the context in which it will be encountered.",
       "image": "/uploads/1783999830059-Capture-d-e-cran-2026-07-14-a--12.27.49.png"
-    },
-    {
-      "num": "VII",
-      "name": "Artist and cultural collaborations",
-      "desc": "C19 works with artists, designers and independent cultural practitioners on projects that bring research, writing and creative practice together. Each collaboration is shaped around the practitioner, the work and the context in which it will be encountered.",
-      "image": ""
-    },
-    {
-      "num": "VIII",
-      "name": "Production and guest experience",
-      "desc": "Practical coordination for fashion shows, events and editorial productions, including guest and press relations, VIP coordination, fittings, schedules, logistics and show-day operations. This is an execution capability within the wider practice.",
-      "image": "/uploads/1783260087359-Capture-d-e-cran-2026-07-05-a--16.00.11.png"
     }
   ],
   "writing": [
+    {
+      "slug": "w-unhome-manifesto",
+      "num": "2026",
+      "year": "2026",
+      "kind": "editorial",
+      "title": "UNHOME: Manifesto",
+      "venue": "UNHOME, Paris edition",
+      "summary": "A manifesto written for UNHOME's Paris edition, framing design through the idea of the real home, developed as part of a nomadic design retail concept."
+    },
     {
       "slug": "w-nietzsche",
       "num": "2025",
@@ -247,17 +366,8 @@
       "title": "Nietzsche's Shadow in Ecological Thought",
       "venue": "Opium Philosophie, 'Ruines' issue",
       "summary": "This essay traces Nietzsche's shadow across ecological thought, reading post-apocalyptic science fiction as a laboratory where the genealogy of morality is re-run under conditions of collapse, and where a future ethics is constructed from the ruins of the present one.",
-      "image": ""
-    },
-    {
-      "slug": "w-032c",
-      "num": "2025",
-      "year": "2025",
-      "kind": "editorial",
-      "title": "032c: Sara Choi",
-      "venue": "032c",
-      "summary": "A conversation with professional drifter Sara Choi for 032c.",
-      "image": "/uploads/1784001246266-Capture-d-e-cran-2026-07-14-a--12.27.49.png"
+      "image": "",
+      "gallery": []
     },
     {
       "slug": "w-grills",
@@ -267,7 +377,10 @@
       "title": "Grills: Smiling at the System",
       "venue": "Cara Magazine, Mouth issue, no. 03",
       "summary": "Published in Cara Magazine's Mouth issue, this bilingual essay traces the history of dental adornment, from Mayan gemstone inlays to Eddie Plein's custom grillz, reading grills through Barthes' fashion system as ornaments that politicise the mouth: part jewellery, part armour, a smile turned against the codes of dominant beauty.",
-      "image": "/uploads/1784001295907-5184ed1098ba73f00336cf7f7c6aded6.jpg"
+      "image": "/uploads/1794953280437-w-grills-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280438-w-grills-01.jpg"
+      ]
     },
     {
       "slug": "w-feral",
@@ -277,7 +390,62 @@
       "title": "FERAL: Selected Writings",
       "venue": "Independent editorial platform",
       "summary": "Founder and editor-in-chief. An independent editorial platform publishing essays, interviews and reflections that move between fashion, philosophy, images, technology and contemporary life.",
-      "image": "/uploads/1784088140635-Capture-d-e-cran-2026-07-15-a--13.02.11.png"
+      "image": "/uploads/1784088140635-Capture-d-e-cran-2026-07-15-a--13.02.11.png",
+      "gallery": []
+    },
+    {
+      "slug": "w-032c",
+      "num": "2025",
+      "year": "2025",
+      "kind": "editorial",
+      "title": "032c: Sara Choi",
+      "venue": "032c",
+      "summary": "A conversation with professional drifter Sara Choi for 032c.",
+      "image": "/uploads/1794953280434-w-032c-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280435-w-032c-01.jpg",
+        "/uploads/1794953280436-w-032c-02.jpg"
+      ]
+    },
+    {
+      "slug": "w-form-dirty-looks-barbican",
+      "num": "2026",
+      "year": "2026",
+      "kind": "editorial",
+      "title": "FORM: Dirty Looks at the Barbican",
+      "venue": "FORM, with Karen Van Godtsenhoven and Jon Astbury",
+      "summary": "A piece for FORM on the Barbican's 'Dirty Looks' exhibition, in conversation with curators Karen Van Godtsenhoven and Jon Astbury on dirt, decay and the visible life of a garment.",
+      "image": "/uploads/1794953280416-w-form-dirty-looks-barbican-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280417-w-form-dirty-looks-barbican-01.jpg",
+        "/uploads/1794953280418-w-form-dirty-looks-barbican-02.jpg",
+        "/uploads/1794953280419-w-form-dirty-looks-barbican-03.jpg",
+        "/uploads/1794953280420-w-form-dirty-looks-barbican-04.jpg",
+        "/uploads/1794953280421-w-form-dirty-looks-barbican-05.jpg",
+        "/uploads/1794953280422-w-form-dirty-looks-barbican-06.jpg",
+        "/uploads/1794953280423-w-form-dirty-looks-barbican-07.jpg",
+        "/uploads/1794953280424-w-form-dirty-looks-barbican-08.jpg"
+      ]
+    },
+    {
+      "slug": "w-form-hard-copy-arles",
+      "num": "2026",
+      "year": "2026",
+      "kind": "editorial",
+      "title": "FORM: Hard Copy Arles, Aaron Stern & David Campany in conversation",
+      "venue": "Encremarket, Arles, 6-12 July 2026",
+      "summary": "A conversation with Aaron Stern and David Campany for Hard Copy Arles, presented at Encremarket during the Rencontres d'Arles.",
+      "image": "/uploads/1794953280425-w-form-hard-copy-arles-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280426-w-form-hard-copy-arles-01.jpg",
+        "/uploads/1794953280427-w-form-hard-copy-arles-02.jpg",
+        "/uploads/1794953280428-w-form-hard-copy-arles-03.jpg",
+        "/uploads/1794953280429-w-form-hard-copy-arles-04.jpg",
+        "/uploads/1794953280430-w-form-hard-copy-arles-05.jpg",
+        "/uploads/1794953280431-w-form-hard-copy-arles-06.jpg",
+        "/uploads/1794953280432-w-form-hard-copy-arles-07.jpg",
+        "/uploads/1794953280433-w-form-hard-copy-arles-08.jpg"
+      ]
     },
     {
       "slug": "w-boro",
@@ -287,7 +455,8 @@
       "title": "Material Memories and Internal Ecologies: Reconnecting Fashion to Cultural Continuity Through Boro in High Fashion",
       "venue": "28th IFFTI Annual Conference, RMIT Vietnam, Ho Chi Minh City",
       "summary": "Conference paper reading boro as material memory and a form of cultural continuity within high fashion.",
-      "image": ""
+      "image": "",
+      "gallery": []
     },
     {
       "slug": "w-transparent",
@@ -297,7 +466,8 @@
       "title": "Transparent Garments and Image-Clothing: On the Digitalization of Fashion and the Loss of Enclothed Knowledge",
       "venue": "16th International Conference on the Image, Université Paris 1 Panthéon-Sorbonne. Selected as Emerging Scholar",
       "summary": "Conference paper on the digitalisation of fashion, transparent garments and the loss of enclothed knowledge.",
-      "image": ""
+      "image": "",
+      "gallery": []
     },
     {
       "slug": "w-repair",
@@ -307,7 +477,8 @@
       "title": "The Revival of the Japanese Technique of Boro in High Fashion: Mending, Materiality, and the Ecology of Repair",
       "venue": "CIMAD, International Conference on Art and Design Practices, Saint-Étienne and Lyon. Proceedings forthcoming",
       "summary": "Conference paper on boro, mending, materiality and the ecology of repair in high fashion.",
-      "image": ""
+      "image": "",
+      "gallery": []
     },
     {
       "slug": "w-punk",
@@ -317,7 +488,8 @@
       "title": "Rebuilding Fashion through Subversion: Punk, Grunge, and Politics of Deconstruction in Luxury Ready-to-Wear",
       "venue": "Nouvelles Gestualités Dissidentes symposium, ENSAD Limoges and Université Paris 1",
       "summary": "Symposium paper on punk, grunge and the politics of deconstruction in luxury ready-to-wear.",
-      "image": ""
+      "image": "",
+      "gallery": []
     },
     {
       "slug": "w-gestures",
@@ -327,7 +499,11 @@
       "title": "Gestures and Temporalities of Fashion",
       "venue": "Study day at Institut Français de la Mode, co-organised with Jeanne-Léopoldine Claustre and Estelle Dupuis",
       "summary": "A co-organised study day bringing together designers, archivists, and researchers to examine how the fashion gesture is repeated, transmitted, and altered over time.",
-      "image": "/uploads/1794951954573-igexport-DV81bawirW6.jpg"
+      "image": "/uploads/1794953280439-w-gestures-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280440-w-gestures-01.jpg",
+        "/uploads/1794953280441-w-gestures-02.jpg"
+      ]
     },
     {
       "slug": "w-sustainability",
@@ -337,7 +513,8 @@
       "title": "On the Sustainability of the Fashion Design Gesture",
       "venue": "Doctoral research, Université Paris 1 Panthéon-Sorbonne and Università di Bologna, under Barbara Formis and Stefano Marino. IFM Doctoral Research Programme",
       "summary": "Ongoing doctoral research investigating ecological aesthetics, anti-fashion, material cultures and the structure of the fashion system in the Anthropocene.",
-      "image": ""
+      "image": "",
+      "gallery": []
     }
   ],
   "clients": [
@@ -354,16 +531,14 @@
     "Harper's Bazaar Turkey × Cartier"
   ],
   "collaborators": [
-    "FORM",
-    "UNHOME"
+    "FORM (Archive Lead & Platform Architect)",
+    "UNHOME (Collaborator, with Thibault de Tony)"
   ],
   "featuredSlugs": [
     "p-form",
     "p-unhome",
-    "p-ashaalia",
     "p-middaia",
-    "p-puig-creo",
-    "p-acne"
+    "p-puig-creo"
   ],
   "site": {
     "brandName": "C19 CONSULTING",
@@ -375,7 +550,7 @@
     "servicesPreviewCopy": "C19 connects cultural intelligence to decisions brands can act on. The work includes cultural mapping, strategic positioning, brand narrative, creative direction, archival and iconographic research, editorial development and fashion business strategy. Projects can begin with a question about culture or identity and develop into a clear framework, creative platform or practical plan.",
     "collaborationLine": "C19 works with brands, artists, designers and cultural organisations, bringing research and creative thinking into dialogue with the people making culture.",
     "closingCTA": "Have a project, question or collaboration in mind?",
-    "aboutIntro": "A cultural strategy practice between research and practice. Paris / Tokyo.",
+    "aboutIntro": "Cultural and creative strategy practice, led by a PhD candidate in aesthetics and fashion theory.",
     "aboutPara1": "C19 Consulting works with brands, organisations and creative practitioners to understand the worlds they operate in and the worlds they want to create.",
     "aboutPara2": "Founded by Cyana-Djoher Hadjali, C19 brings cultural research, systems thinking, strategic positioning and creative direction together. The work begins with close attention to context: the histories, images, behaviours, technologies and subcultural movements shaping a field. C19 then helps clients clarify their point of view and translate it into a coherent brand narrative, identity or direction.",
     "aboutPara3": "The practice is grounded in fashion, luxury, beauty and visual culture, with a clear focus on technology, platform architecture and the cultural systems forming around them. Its work moves between long-term thinking and practical decisions, from defining a position to shaping how it is expressed through a brand, collection, campaign, publication or experience.",
@@ -393,7 +568,10 @@
     "footerBlurb": "C19 Consulting · Paris / Tokyo · cyana@c19consulting.com · Instagram @notcyana",
     "footerCopyright": "© C19 Consulting, 2026",
     "footerCity": "Paris / Tokyo",
-    "heroImage": "/uploads/1791551161138-Capture-d-e-cran-2026-10-09-a--15.04.45.png"
+    "heroImage": "/uploads/1791551161138-Capture-d-e-cran-2026-10-09-a--15.04.45.png",
+    "founderPhoto": "",
+    "heroVideo": "",
+    "heroVideoPoster": ""
   },
   "feral": [
     {
@@ -401,45 +579,108 @@
       "title": "Conversations Archive: Geray Mena",
       "year": "2026",
       "summary": "An interview drawn from the Conversations Archive, in conversation with Geray Mena.",
-      "image": "/uploads/1784088598968-be6eae443534a76f61b452f3cc72b483.jpg",
-      "imageA1": "/uploads/1794951954580-igexport-DY5Eik_invS-2.jpg",
-      "imageA2": "/uploads/1794951954581-igexport-DY5Eik_invS-6.jpg"
+      "image": "/uploads/1794953280364-f-conversations-geray-mena-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280365-f-conversations-geray-mena-01.jpg",
+        "/uploads/1794953280366-f-conversations-geray-mena-02.jpg",
+        "/uploads/1794953280367-f-conversations-geray-mena-03.jpg",
+        "/uploads/1794953280368-f-conversations-geray-mena-04.jpg",
+        "/uploads/1794953280369-f-conversations-geray-mena-05.jpg",
+        "/uploads/1794953280370-f-conversations-geray-mena-06.jpg",
+        "/uploads/1794953280371-f-conversations-geray-mena-07.jpg"
+      ]
     },
     {
       "slug": "f-conversations-louisa-gagliardi",
       "title": "Conversations Archive: Louisa Gagliardi",
       "year": "2026",
       "summary": "An interview drawn from the Conversations Archive, in conversation with Louisa Gagliardi.",
-      "image": "/uploads/1784088637681-46450ed956f7df765a7a7069ab150515.jpg",
-      "imageA1": "/uploads/1794951954582-igexport-DYWz9JKirNp-2.jpg",
-      "imageA2": "/uploads/1794951954583-igexport-DYWz9JKirNp-4.jpg"
+      "image": "/uploads/1794953280356-f-conversations-louisa-gagliardi-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280357-f-conversations-louisa-gagliardi-01.jpg",
+        "/uploads/1794953280358-f-conversations-louisa-gagliardi-02.jpg",
+        "/uploads/1794953280359-f-conversations-louisa-gagliardi-03.jpg",
+        "/uploads/1794953280360-f-conversations-louisa-gagliardi-04.jpg",
+        "/uploads/1794953280361-f-conversations-louisa-gagliardi-05.jpg",
+        "/uploads/1794953280362-f-conversations-louisa-gagliardi-06.jpg",
+        "/uploads/1794953280363-f-conversations-louisa-gagliardi-07.jpg"
+      ]
+    },
+    {
+      "slug": "f-conversations-jenia-kim",
+      "title": "Conversations Archive: Jenia Kim",
+      "year": "2026",
+      "summary": "An interview drawn from the Conversations Archive, in conversation with Jenia Kim of J.Kim.",
+      "image": "/uploads/1794953280372-f-conversations-jenia-kim-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280373-f-conversations-jenia-kim-01.jpg",
+        "/uploads/1794953280374-f-conversations-jenia-kim-02.jpg",
+        "/uploads/1794953280375-f-conversations-jenia-kim-03.jpg",
+        "/uploads/1794953280376-f-conversations-jenia-kim-04.jpg",
+        "/uploads/1794953280377-f-conversations-jenia-kim-05.jpg"
+      ],
+      "squareCover": false
+    },
+    {
+      "slug": "f-conversations-3world-elite",
+      "title": "Conversations Archive: 3WORLD.ELITE",
+      "year": "2024",
+      "summary": "An interview drawn from the Conversations Archive, in conversation with 3rd.World.Elite on spirituality, collective consciousness and the internet.",
+      "image": "/uploads/1794953280378-f-conversations-3world-elite-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280379-f-conversations-3world-elite-01.jpg",
+        "/uploads/1794953280380-f-conversations-3world-elite-02.jpg",
+        "/uploads/1794953280381-f-conversations-3world-elite-03.jpg",
+        "/uploads/1794953280382-f-conversations-3world-elite-04.jpg",
+        "/uploads/1794953280383-f-conversations-3world-elite-05.jpg",
+        "/uploads/1794953280384-f-conversations-3world-elite-06.jpg",
+        "/uploads/1794953280385-f-conversations-3world-elite-07.jpg"
+      ],
+      "squareCover": false
     },
     {
       "slug": "f-thoughts-on-fashion-2",
-      "title": "Thoughts on Fashion #2",
+      "title": "Thoughts on Fashion #2: Fashion, Mimesis and Value Collapse",
       "year": "2025",
       "summary": "Part of the Thoughts on Fashion series.",
-      "image": "/uploads/1784088674300-07284616e47f60e47bb8738f5d579ecd.jpg",
-      "imageA1": "/uploads/1794951954578-igexport-DOA8FUwirQ6-2.jpg",
-      "imageA2": "/uploads/1794951954579-igexport-DOA8FUwirQ6-10.jpg"
+      "image": "/uploads/1794953280393-f-thoughts-on-fashion-2-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280394-f-thoughts-on-fashion-2-01.jpg",
+        "/uploads/1794953280395-f-thoughts-on-fashion-2-02.jpg",
+        "/uploads/1794953280396-f-thoughts-on-fashion-2-03.jpg",
+        "/uploads/1794953280397-f-thoughts-on-fashion-2-04.jpg",
+        "/uploads/1794953280398-f-thoughts-on-fashion-2-05.jpg",
+        "/uploads/1794953280399-f-thoughts-on-fashion-2-06.jpg",
+        "/uploads/1794953280400-f-thoughts-on-fashion-2-07.jpg",
+        "/uploads/1794953280401-f-thoughts-on-fashion-2-08.jpg",
+        "/uploads/1794953280402-f-thoughts-on-fashion-2-09.jpg",
+        "/uploads/1794953280403-f-thoughts-on-fashion-2-10.jpg"
+      ]
     },
     {
       "slug": "f-thoughts-on-fashion-1",
-      "title": "Thoughts on Fashion #1",
+      "title": "Thoughts on Fashion #1: And You Might Ask Why I'm a Hater",
       "year": "2025",
       "summary": "Part of the Thoughts on Fashion series.",
-      "image": "/uploads/1784088723100-89af1d92386f0698959f00b7eabe82cb.jpg",
-      "imageA1": "/uploads/1794951954576-igexport-DM7QF3iSGXE.jpg",
-      "imageA2": "/uploads/1794951954577-igexport-DM7QF3iSGXE-6.jpg"
+      "image": "/uploads/1794953280386-f-thoughts-on-fashion-1-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280387-f-thoughts-on-fashion-1-01.jpg",
+        "/uploads/1794953280388-f-thoughts-on-fashion-1-02.jpg",
+        "/uploads/1794953280389-f-thoughts-on-fashion-1-03.jpg",
+        "/uploads/1794953280390-f-thoughts-on-fashion-1-04.jpg",
+        "/uploads/1794953280391-f-thoughts-on-fashion-1-05.jpg",
+        "/uploads/1794953280392-f-thoughts-on-fashion-1-06.jpg"
+      ]
     },
     {
       "slug": "f-issue-02",
       "title": "FERAL.20290719, Issue 0.2",
       "year": "2025",
       "summary": "FERAL.20290719, Issue 0.2.",
-      "image": "/uploads/1794951954575-FERAL-ISSUE02-TEMPLATE.jpg",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794953280404-f-issue-02-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280405-f-issue-02-01.jpg"
+      ]
     },
     {
       "slug": "f-issue-01",
@@ -447,26 +688,29 @@
       "year": "2024",
       "summary": "FERAL.20290719, Issue 0.1.",
       "image": "",
-      "imageA1": "",
-      "imageA2": ""
+      "gallery": []
     },
     {
       "slug": "f-fashion-posthumanism",
       "title": "Fashion and Posthumanism",
       "year": "2024",
       "summary": "On fashion and posthumanism.",
-      "image": "/uploads/1784088729305-9bdf3d56932ac5dd2e61537af1ffe5d2.jpg",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794953280406-f-fashion-posthumanism-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280407-f-fashion-posthumanism-01.jpg"
+      ],
+      "squareCover": true
     },
     {
       "slug": "f-ready-made-ecologies",
-      "title": "“Ready Made Ecologies”",
+      "title": "Ready Made Ecologies",
       "year": "2024",
       "summary": "On ready-made ecologies in fashion.",
-      "image": "/uploads/1784088733040-192ae8c2ed041688adf80a1cf342a0a1.jpg",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794953280408-f-ready-made-ecologies-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280409-f-ready-made-ecologies-01.jpg"
+      ],
+      "squareCover": true
     },
     {
       "slug": "f-heros-sf-post-apocalyptique",
@@ -474,35 +718,46 @@
       "year": "2024",
       "summary": "Sur les héros de la science-fiction post-apocalyptique.",
       "image": "/uploads/1794951232045-igexport-CZZSD6DgcFR.jpg",
-      "imageA1": "/uploads/1794951232046-igexport-CZZSD6DgcFR-2.jpg",
-      "imageA2": "/uploads/1794951232047-igexport-CZZSD6DgcFR-3.jpg"
+      "gallery": []
     },
     {
       "slug": "f-post-apocalyptic-fashion",
       "title": "Post-Apocalyptic Fashion",
       "year": "2024",
       "summary": "On post-apocalyptic fashion.",
-      "image": "/uploads/1784088740745-355dadea8b93ac59c526b28a8b494f1a--1-.jpg",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794953280410-f-post-apocalyptic-fashion-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280411-f-post-apocalyptic-fashion-01.jpg"
+      ],
+      "squareCover": true
     },
     {
       "slug": "f-core-aesthetics",
       "title": "About Core-Aesthetics",
       "year": "2023",
       "summary": "On core-aesthetics.",
-      "image": "/uploads/1784088743623-629090c098ffba1284995b136d131a92.jpg",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794953280412-f-core-aesthetics-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280413-f-core-aesthetics-01.jpg"
+      ],
+      "squareCover": true
     },
     {
       "slug": "f-heaven-marketing",
       "title": "Is Heaven Really Cool or Genius Marketing?",
       "year": "2023",
       "summary": "Is heaven really cool, or just genius marketing?",
-      "image": "/uploads/1784088746441-bf8b866c56d66f49cc3e80a57fa5d995.jpg",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794953280414-f-heaven-marketing-cover.jpg",
+      "gallery": [
+        "/uploads/1794953280415-f-heaven-marketing-01.jpg"
+      ],
+      "squareCover": true
     }
+  ],
+  "homeWritingSlugs": [
+    "w-form-dirty-looks-barbican",
+    "w-form-hard-copy-arles",
+    "w-grills",
+    "w-032c"
   ]
 }
