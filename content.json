@@ -10,7 +10,11 @@
       "status": "Delivered",
       "category": "Research, archive and editorial",
       "desc": "Conversations Archive is a series of long-form interviews with designers and artists working at the edges of the fashion system. Developed and edited by Cyana-Djoher Hadjali, the project treats the interview as primary material: a way to document creative positions and working methods as they emerge. For Newcoin Research Center, the series extended internationally through conversations with Tomikono Wigg, Louisa Gagliardi, Vitalii Akiniov and J.Kim. The work included editorial coordination, layouts and talent submissions across fashion, art and Web3.",
-      "image": "/uploads/1783282651745-46450ed956f7df765a7a7069ab150515.jpg"
+      "image": "/uploads/1783282651745-46450ed956f7df765a7a7069ab150515.jpg",
+      "imageA1": "/uploads/1794951232048-igexport-DA8ycHAg3aL.jpg",
+      "imageA2": "/uploads/1794951232049-igexport-DA8ycHAg3aL-3.jpg",
+      "imageB1": "/uploads/1794951232050-igexport-DazShWZkXKK-2.jpg",
+      "imageB2": "/uploads/1794951232051-igexport-DazShWZkXKK-5.jpg"
     },
     "p-middaia": {
       "fig": "Fig. 02",
@@ -46,7 +50,11 @@
       "status": "Ongoing",
       "category": "Research, archive and editorial",
       "desc": "As Archive Lead at FORM, Cyana-Djoher Hadjali contributes to the development of a fashion archive platform, sourcing, structuring and narrating designer histories. She also hosts FORM Academy, a video series on fashion designers drawn from her doctoral research. Each episode combines biographical analysis with close readings of collections and runway shows.",
-      "image": "/uploads/1783282664601-Capture-d-e-cran-2026-07-05-a--16.00.11.png"
+      "image": "/uploads/1783282664601-Capture-d-e-cran-2026-07-05-a--16.00.11.png",
+      "imageA1": "/uploads/1794951232056-igexport-DfpdMo2iByS.jpg",
+      "imageA2": "/uploads/1794951232057-igexport-DfpdMo2iByS-2.jpg",
+      "imageB1": "/uploads/1794951232058-igexport-DfpdMo2iByS-5.jpg",
+      "imageB2": "/uploads/1794951232059-igexport-DfpdMo2iByS-7.jpg"
     },
     "p-acne": {
       "fig": "Fig. 05",
@@ -130,7 +138,8 @@
       "status": "Delivered",
       "category": "Research, archive and editorial",
       "desc": "C19 contributed creative writing and voice-over to Palladium's Spring/Summer 2022 campaign, 'Ticket to Earth', created for the brand's 75th anniversary.",
-      "image": "/uploads/1784000402838-Capture-d-e-cran-2026-07-14-a--12.39.53.png"
+      "image": "/uploads/1784000402838-Capture-d-e-cran-2026-07-14-a--12.39.53.png",
+      "imageA1": "/uploads/1794951232060-8c9b57948c66e7617fb29d42b07ddfcb.jpg"
     },
     "p-newcoin": {
       "fig": "Fig. 12",
@@ -142,7 +151,11 @@
       "status": "Delivered",
       "category": "Research, archive and editorial",
       "desc": "At Newcoin Research Center, Cyana-Djoher Hadjali worked on cultural trend analysis and editorial strategy at the intersection of fashion, aesthetics and Web3. The role included interviews with international designers and artists, editorial layouts and narrative direction.",
-      "image": "/uploads/1784000985890-Capture-d-e-cran-2026-07-14-a--12.49.34.png"
+      "image": "/uploads/1784000985890-Capture-d-e-cran-2026-07-14-a--12.49.34.png",
+      "imageA1": "/uploads/1794951232052-igexport-DA8ycHAg3aL-5.jpg",
+      "imageA2": "/uploads/1794951232053-igexport-DA8ycHAg3aL-7.jpg",
+      "imageB1": "/uploads/1794951232054-igexport-DA8ycHAg3aL-9.jpg",
+      "imageB2": "/uploads/1794951232055-igexport-DA8ycHAg3aL-11.jpg"
     },
     "p-premiercri": {
       "fig": "Fig. 13",
@@ -459,9 +472,9 @@
       "title": "Sur les héros de science-fiction post-apocalyptique",
       "year": "2024",
       "summary": "Sur les héros de la science-fiction post-apocalyptique.",
-      "image": "",
-      "imageA1": "",
-      "imageA2": ""
+      "image": "/uploads/1794951232045-igexport-CZZSD6DgcFR.jpg",
+      "imageA1": "/uploads/1794951232046-igexport-CZZSD6DgcFR-2.jpg",
+      "imageA2": "/uploads/1794951232047-igexport-CZZSD6DgcFR-3.jpg"
     },
     {
       "slug": "f-post-apocalyptic-fashion",
